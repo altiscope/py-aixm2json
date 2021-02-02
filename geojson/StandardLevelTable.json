@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.f4a2dcad-94f3-471e-9d08-c999cbcb1f34",
+                "identifier": "f4a2dcad-94f3-471e-9d08-c999cbcb1f34",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|StandardLevelTableTimeSlice|featureLifetime|TimePeriod|beginPosition": "2019-01-03T00:00:00",
+                "name": "OTHER"
+            }
+        }
+    ]
+}

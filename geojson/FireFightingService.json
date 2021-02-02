@@ -1,0 +1,737 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.01627e9c-22c1-4e82-9bb9-b2b7a620335b",
+                "identifier": "01627e9c-22c1-4e82-9bb9-b2b7a620335b",
+                "beginPosition": "2018-01-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A9",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.040106fb-9e4c-4f83-a6b5-5cb66ad8719f",
+                "identifier": "040106fb-9e4c-4f83-a6b5-5cb66ad8719f",
+                "beginPosition": "2013-11-14T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2013-11-14T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.04d7ebb9-d829-43dc-acb5-507f335cf3c9",
+                "identifier": "04d7ebb9-d829-43dc-acb5-507f335cf3c9",
+                "beginPosition": "2014-05-29T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A8",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.05be4d8b-5a9e-4fe5-b065-0d705f0cfe1b",
+                "identifier": "05be4d8b-5a9e-4fe5-b065-0d705f0cfe1b",
+                "beginPosition": "2016-02-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A4",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-02-04T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.213b434b-4084-42f4-ae45-ed7b3899aa8d",
+                "identifier": "213b434b-4084-42f4-ae45-ed7b3899aa8d",
+                "beginPosition": "2018-09-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.221f9cf2-ac1f-4214-9144-8a23b998bda8",
+                "identifier": "221f9cf2-ac1f-4214-9144-8a23b998bda8",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2d1ae122-dffd-473a-83a9-13c741e2a25f",
+                "identifier": "2d1ae122-dffd-473a-83a9-13c741e2a25f",
+                "beginPosition": "2015-04-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2d77d288-3ffc-4c4b-9a00-51e22f0b995a",
+                "identifier": "2d77d288-3ffc-4c4b-9a00-51e22f0b995a",
+                "beginPosition": "2015-04-30T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A5",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.37f51a24-12ea-4a1e-982d-36c93219c819",
+                "identifier": "37f51a24-12ea-4a1e-982d-36c93219c819",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A9",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3ab227cb-3a87-4685-bd3d-5f9cfa218901",
+                "identifier": "3ab227cb-3a87-4685-bd3d-5f9cfa218901",
+                "beginPosition": "2017-05-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3b500e20-4fef-4444-99aa-2796263de8e8",
+                "identifier": "3b500e20-4fef-4444-99aa-2796263de8e8",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.43e7edce-b31b-4ac4-8fe1-87d56e8b3d91",
+                "identifier": "43e7edce-b31b-4ac4-8fe1-87d56e8b3d91",
+                "beginPosition": "2014-03-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.521ef7f5-3a3f-4799-a5c8-1fa7f5882497",
+                "identifier": "521ef7f5-3a3f-4799-a5c8-1fa7f5882497",
+                "beginPosition": "2014-05-29T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.58dd826d-a6b2-403d-881c-433054eff0aa",
+                "identifier": "58dd826d-a6b2-403d-881c-433054eff0aa",
+                "beginPosition": "2017-05-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A5",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5ab13d0d-fa0e-4abc-9311-d89a3938fa92",
+                "identifier": "5ab13d0d-fa0e-4abc-9311-d89a3938fa92",
+                "beginPosition": "2018-01-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5b018e4a-2b7f-4878-9b1d-efa12bb3888b",
+                "identifier": "5b018e4a-2b7f-4878-9b1d-efa12bb3888b",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5e57c21b-723b-4caa-86df-5e7a41bb0645",
+                "identifier": "5e57c21b-723b-4caa-86df-5e7a41bb0645",
+                "beginPosition": "2018-03-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5e8cfe94-6a5d-45b5-bb48-feb39b2c4aa3",
+                "identifier": "5e8cfe94-6a5d-45b5-bb48-feb39b2c4aa3",
+                "beginPosition": "2012-04-05T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.60070ca5-0cdf-4bbe-b82a-5e3472366623",
+                "identifier": "60070ca5-0cdf-4bbe-b82a-5e3472366623",
+                "beginPosition": "2018-12-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A9",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.6515c088-0131-40ce-beaf-5dfdc0cde8f8",
+                "identifier": "6515c088-0131-40ce-beaf-5dfdc0cde8f8",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.66d57d01-f8b8-4cb2-9725-3fcc2a84f851",
+                "identifier": "66d57d01-f8b8-4cb2-9725-3fcc2a84f851",
+                "beginPosition": "2014-06-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.69791cef-798e-435a-b536-deaa514a6aa0",
+                "identifier": "69791cef-798e-435a-b536-deaa514a6aa0",
+                "beginPosition": "2014-03-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-03-06T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.6ebf735f-d59b-4133-88ba-0548e8ec97dd",
+                "identifier": "6ebf735f-d59b-4133-88ba-0548e8ec97dd",
+                "beginPosition": "2016-02-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A9",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.72178926-74f8-45a2-98a4-60d03887d2f5",
+                "identifier": "72178926-74f8-45a2-98a4-60d03887d2f5",
+                "beginPosition": "2018-03-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.742ce667-cb0b-49be-b82d-bc4980a8427c",
+                "identifier": "742ce667-cb0b-49be-b82d-bc4980a8427c",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.79be9e73-f085-415e-b15b-17d693363ee7",
+                "identifier": "79be9e73-f085-415e-b15b-17d693363ee7",
+                "beginPosition": "2015-04-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A4",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2015-04-02T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7d289c2c-3632-46fa-bf6a-aeccdd94d480",
+                "identifier": "7d289c2c-3632-46fa-bf6a-aeccdd94d480",
+                "beginPosition": "2014-05-29T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A8",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.81743836-0b1e-4db1-a1b2-4c8a4e54388c",
+                "identifier": "81743836-0b1e-4db1-a1b2-4c8a4e54388c",
+                "beginPosition": "2013-06-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A8",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2013-06-27T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.88e77bbe-edb4-43a6-8ac1-62068e30fa44",
+                "identifier": "88e77bbe-edb4-43a6-8ac1-62068e30fa44",
+                "beginPosition": "2014-03-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-03-06T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8e73b545-b758-4ced-88e2-2f7118e91ba4",
+                "identifier": "8e73b545-b758-4ced-88e2-2f7118e91ba4",
+                "beginPosition": "2015-08-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8fd919a9-5887-4db4-8026-3b2bdc4318d8",
+                "identifier": "8fd919a9-5887-4db4-8026-3b2bdc4318d8",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9bd9b247-4726-40a5-a616-cf4a51966f67",
+                "identifier": "9bd9b247-4726-40a5-a616-cf4a51966f67",
+                "beginPosition": "2014-03-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A5",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-03-06T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9f6ad8af-409f-4997-bcdc-dd09c9653858",
+                "identifier": "9f6ad8af-409f-4997-bcdc-dd09c9653858",
+                "beginPosition": "2019-04-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2019-04-25T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ac81d61a-70c7-42de-9c73-2849f67baad6",
+                "identifier": "ac81d61a-70c7-42de-9c73-2849f67baad6",
+                "beginPosition": "2018-12-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ae5f9fac-44f2-4e58-98de-b0b95820c117",
+                "identifier": "ae5f9fac-44f2-4e58-98de-b0b95820c117",
+                "beginPosition": "2013-11-14T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2013-11-14T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b1730584-11a3-4305-9400-ec569246bf4a",
+                "identifier": "b1730584-11a3-4305-9400-ec569246bf4a",
+                "beginPosition": "2019-08-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A5",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b1874e43-f355-4d53-8c4c-95b977b6abf4",
+                "identifier": "b1874e43-f355-4d53-8c4c-95b977b6abf4",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b4df180a-8e8a-4351-8e65-597bde2c40d6",
+                "identifier": "b4df180a-8e8a-4351-8e65-597bde2c40d6",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b719a676-d2a8-4605-b559-501e00759198",
+                "identifier": "b719a676-d2a8-4605-b559-501e00759198",
+                "beginPosition": "2014-03-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b905205a-716c-414f-aa7a-50d88eca8fe9",
+                "identifier": "b905205a-716c-414f-aa7a-50d88eca8fe9",
+                "beginPosition": "2019-07-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.bd408e1b-ccf1-4572-aafe-8a5146d5652f",
+                "identifier": "bd408e1b-ccf1-4572-aafe-8a5146d5652f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c161db4c-f096-4eea-bc34-7715885ad567",
+                "identifier": "c161db4c-f096-4eea-bc34-7715885ad567",
+                "beginPosition": "2018-09-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c3bf9d02-2669-44ed-a885-1322110a517f",
+                "identifier": "c3bf9d02-2669-44ed-a885-1322110a517f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A5",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c7fccb90-5464-40a5-b0ac-ef1893ffed73",
+                "identifier": "c7fccb90-5464-40a5-b0ac-ef1893ffed73",
+                "beginPosition": "2012-06-28T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c86887a3-9829-44b3-a9f3-d7ae5e8e3f22",
+                "identifier": "c86887a3-9829-44b3-a9f3-d7ae5e8e3f22",
+                "beginPosition": "2019-01-31T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2019-01-31T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d0dc75f2-6cd6-4905-aee8-1e0c112859ca",
+                "identifier": "d0dc75f2-6cd6-4905-aee8-1e0c112859ca",
+                "beginPosition": "2016-02-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-02-04T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d360f9bb-9416-4094-8166-139d993b9686",
+                "identifier": "d360f9bb-9416-4094-8166-139d993b9686",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d565e9d3-05f5-4e29-b682-959a9c0cc04f",
+                "identifier": "d565e9d3-05f5-4e29-b682-959a9c0cc04f",
+                "beginPosition": "2014-06-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-06-26T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d6f378a3-1ba0-4d35-bd47-f24204ce0579",
+                "identifier": "d6f378a3-1ba0-4d35-bd47-f24204ce0579",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A5",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d8e58740-dd97-4e78-969b-c24ff4f9d18f",
+                "identifier": "d8e58740-dd97-4e78-969b-c24ff4f9d18f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.db05a2f2-c2a0-4b06-93d0-21e89dc5b39e",
+                "identifier": "db05a2f2-c2a0-4b06-93d0-21e89dc5b39e",
+                "beginPosition": "2015-08-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A9",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.de96fa8f-db9c-4563-96ef-ddefb36c96e4",
+                "identifier": "de96fa8f-db9c-4563-96ef-ddefb36c96e4",
+                "beginPosition": "2014-03-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-03-06T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e1cd6a0a-4ca8-4faa-b60a-78c9ad4703f3",
+                "identifier": "e1cd6a0a-4ca8-4faa-b60a-78c9ad4703f3",
+                "beginPosition": "2014-05-29T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-05-29T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e38b3ac2-e899-41e7-ad54-fb00ada9cd47",
+                "identifier": "e38b3ac2-e899-41e7-ad54-fb00ada9cd47",
+                "beginPosition": "2020-08-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e633084a-51a3-499a-9da1-7d2dc3f67a8f",
+                "identifier": "e633084a-51a3-499a-9da1-7d2dc3f67a8f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A6",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f01801df-bc52-4327-a1cf-e79f16074a52",
+                "identifier": "f01801df-bc52-4327-a1cf-e79f16074a52",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f0d5e619-934f-4e43-be72-a3ded6da93ef",
+                "identifier": "f0d5e619-934f-4e43-be72-a3ded6da93ef",
+                "beginPosition": "2018-03-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": null,
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f78eacbb-1e6a-4bea-971c-58c4a9eab227",
+                "identifier": "f78eacbb-1e6a-4bea-971c-58c4a9eab227",
+                "beginPosition": "2017-09-14T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A3",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.fa7a786f-142b-412f-aecd-41ea3c081263",
+                "identifier": "fa7a786f-142b-412f-aecd-41ea3c081263",
+                "beginPosition": "2017-09-14T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A5",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.fc85dfb0-e72d-46ed-8941-8b9c13f9b469",
+                "identifier": "fc85dfb0-e72d-46ed-8941-8b9c13f9b469",
+                "beginPosition": "2017-01-05T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A7",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-01-05T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.fcefa490-dfd4-4b3b-870d-be73417663b8",
+                "identifier": "fcefa490-dfd4-4b3b-870d-be73417663b8",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "category": "A9",
+                "timeSlice|FireFightingServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        }
+    ]
+}

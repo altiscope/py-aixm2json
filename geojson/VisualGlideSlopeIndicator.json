@@ -1,0 +1,1739 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.017a2cc6-f224-4e1e-99d9-75747266c7ff",
+                "identifier": "017a2cc6-f224-4e1e-99d9-75747266c7ff",
+                "beginPosition": "2020-07-16T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": "2020-07-16T00:00:00",
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 35.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0276c915-4a2a-482d-b4e6-4aadaf3d4256",
+                "identifier": "0276c915-4a2a-482d-b4e6-4aadaf3d4256",
+                "beginPosition": "2020-08-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 63.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": 4,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.06eb66c5-4ca2-4ba6-928a-9cd8669b86ae",
+                "identifier": "06eb66c5-4ca2-4ba6-928a-9cd8669b86ae",
+                "beginPosition": "2020-08-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 56.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.08859f6b-df85-4891-ac0e-93d6b23bc95e",
+                "identifier": "08859f6b-df85-4891-ac0e-93d6b23bc95e",
+                "beginPosition": "2018-01-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 49.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0e3c878e-c090-4dc2-b2f9-2e08456118b3",
+                "identifier": "0e3c878e-c090-4dc2-b2f9-2e08456118b3",
+                "beginPosition": "2020-05-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 64.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": 4,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.130ccf15-7537-4158-a6e5-b905c8794a68",
+                "identifier": "130ccf15-7537-4158-a6e5-b905c8794a68",
+                "beginPosition": "2018-03-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 60.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1aeac231-eff1-44a2-ab1c-3ecbc9915d8e",
+                "identifier": "1aeac231-eff1-44a2-ab1c-3ecbc9915d8e",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 72.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1c30b6a3-01cc-4c13-841d-02eb43d58a95",
+                "identifier": "1c30b6a3-01cc-4c13-841d-02eb43d58a95",
+                "beginPosition": "2017-03-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 48.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.20a6ecd7-1612-4c58-b905-f58bdbf9d4b7",
+                "identifier": "20a6ecd7-1612-4c58-b905-f58bdbf9d4b7",
+                "beginPosition": "2020-06-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 59.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.20bbbed0-c07d-4a2b-8789-6728f93126a2",
+                "identifier": "20bbbed0-c07d-4a2b-8789-6728f93126a2",
+                "beginPosition": "2019-02-28T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 50.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2256db04-31df-417b-b125-fa2606ef7009",
+                "identifier": "2256db04-31df-417b-b125-fa2606ef7009",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 54.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.226276bf-9ef2-45cb-8e58-45f3952e4eb2",
+                "identifier": "226276bf-9ef2-45cb-8e58-45f3952e4eb2",
+                "beginPosition": "2020-11-05T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 59.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.23c8914d-c47c-48b6-a498-ea068f3236e4",
+                "identifier": "23c8914d-c47c-48b6-a498-ea068f3236e4",
+                "beginPosition": "2020-01-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 40.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "RIGHT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.24484c01-37c4-4d38-988b-7cc1fe1008e2",
+                "identifier": "24484c01-37c4-4d38-988b-7cc1fe1008e2",
+                "beginPosition": "2019-08-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 54.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2c8c2746-7163-4ed4-9ae1-bef9abd2a49d",
+                "identifier": "2c8c2746-7163-4ed4-9ae1-bef9abd2a49d",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 44.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2d326861-61e8-4e2a-b3bc-bd24e9de24a0",
+                "identifier": "2d326861-61e8-4e2a-b3bc-bd24e9de24a0",
+                "beginPosition": "2019-07-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 48.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2dcc7363-15bb-47f3-a4d6-72b70cddc1bc",
+                "identifier": "2dcc7363-15bb-47f3-a4d6-72b70cddc1bc",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 68.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.30484efc-7533-4587-9b1d-c36a54d5506a",
+                "identifier": "30484efc-7533-4587-9b1d-c36a54d5506a",
+                "beginPosition": "2019-09-12T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 60.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.38a1e046-642a-4f8d-aa98-8fd65b75c9b3",
+                "identifier": "38a1e046-642a-4f8d-aa98-8fd65b75c9b3",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 64.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3b3e8fa6-c62d-4ccd-96db-ed42c20c62da",
+                "identifier": "3b3e8fa6-c62d-4ccd-96db-ed42c20c62da",
+                "beginPosition": "2020-06-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 61.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3c8a57da-01c5-4eb7-afac-2b7ab9f2406c",
+                "identifier": "3c8a57da-01c5-4eb7-afac-2b7ab9f2406c",
+                "beginPosition": "2020-02-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 37.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3cccab37-b432-4a39-b20c-2e6cf081c002",
+                "identifier": "3cccab37-b432-4a39-b20c-2e6cf081c002",
+                "beginPosition": "2019-04-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 49.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": 4,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3d5804af-876c-4657-a303-ff8a33bea766",
+                "identifier": "3d5804af-876c-4657-a303-ff8a33bea766",
+                "beginPosition": "2018-09-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 42.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3e3d0a7d-b345-4235-bbb8-9c8b1574ebdf",
+                "identifier": "3e3d0a7d-b345-4235-bbb8-9c8b1574ebdf",
+                "beginPosition": "2020-09-10T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": null,
+                "minimumEyeHeightOverThreshold_uom": null,
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.42ea9db1-f99f-4d20-b04e-f38a8139c40f",
+                "identifier": "42ea9db1-f99f-4d20-b04e-f38a8139c40f",
+                "beginPosition": "2020-03-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 35.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.4418bf95-01ab-4ea6-9cbd-a3ee5970c18e",
+                "identifier": "4418bf95-01ab-4ea6-9cbd-a3ee5970c18e",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 39.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.45c428fd-c48d-403c-a453-0cf671fa7107",
+                "identifier": "45c428fd-c48d-403c-a453-0cf671fa7107",
+                "beginPosition": "2020-10-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 61.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.4c4cda95-d58a-4a28-9c7f-832a2fe275b2",
+                "identifier": "4c4cda95-d58a-4a28-9c7f-832a2fe275b2",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 53.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.53f5ae85-cb21-4076-8bf7-bd87e76d47f3",
+                "identifier": "53f5ae85-cb21-4076-8bf7-bd87e76d47f3",
+                "beginPosition": "2020-11-05T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 70.6,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.54c37ece-91e0-41d9-8fd4-5e3b7b3304b3",
+                "identifier": "54c37ece-91e0-41d9-8fd4-5e3b7b3304b3",
+                "beginPosition": "2017-05-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": null,
+                "minimumEyeHeightOverThreshold_uom": null,
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.55fbe27e-e986-4656-9a94-cdf06a374614",
+                "identifier": "55fbe27e-e986-4656-9a94-cdf06a374614",
+                "beginPosition": "2020-02-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 63.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5a03eca8-a8e7-40e4-8849-036e8a8a588d",
+                "identifier": "5a03eca8-a8e7-40e4-8849-036e8a8a588d",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 40.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5a7e40bc-e9c1-41f6-955f-ec1a86f43c71",
+                "identifier": "5a7e40bc-e9c1-41f6-955f-ec1a86f43c71",
+                "beginPosition": "2019-04-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 58.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5ea435cd-a0e2-464a-b411-175b70794afa",
+                "identifier": "5ea435cd-a0e2-464a-b411-175b70794afa",
+                "beginPosition": "2020-01-30T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 50.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.62c79191-361f-4dbd-9a38-99ba4251aff0",
+                "identifier": "62c79191-361f-4dbd-9a38-99ba4251aff0",
+                "beginPosition": "2019-12-05T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 63.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.667ba0f8-8250-4804-807e-bc06978c2606",
+                "identifier": "667ba0f8-8250-4804-807e-bc06978c2606",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 64.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.6a1621de-015b-4da8-86db-e752b7466f39",
+                "identifier": "6a1621de-015b-4da8-86db-e752b7466f39",
+                "beginPosition": "2019-04-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 57.6,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7192cc8c-9bc8-4be6-b73d-a627fd0d2a8b",
+                "identifier": "7192cc8c-9bc8-4be6-b73d-a627fd0d2a8b",
+                "beginPosition": "2020-02-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 71.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.735643e8-167a-4357-857f-85cb0d62e5f0",
+                "identifier": "735643e8-167a-4357-857f-85cb0d62e5f0",
+                "beginPosition": "2020-07-16T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 71.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7482e9a4-16dd-4ec2-8301-50535f6c1550",
+                "identifier": "7482e9a4-16dd-4ec2-8301-50535f6c1550",
+                "beginPosition": "2020-03-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 64.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.798a1ad5-5b00-4ea1-a9c3-67388e6afe09",
+                "identifier": "798a1ad5-5b00-4ea1-a9c3-67388e6afe09",
+                "beginPosition": "2019-10-10T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 72.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.79f054bc-3f45-4c84-8457-46c31025ef5b",
+                "identifier": "79f054bc-3f45-4c84-8457-46c31025ef5b",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 68.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7a5d3565-8f53-41f0-af57-dddbe555b9a1",
+                "identifier": "7a5d3565-8f53-41f0-af57-dddbe555b9a1",
+                "beginPosition": "2019-10-10T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 69.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7ac852c5-1826-49fe-8c8f-a678805c3058",
+                "identifier": "7ac852c5-1826-49fe-8c8f-a678805c3058",
+                "beginPosition": "2019-01-31T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 47.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7baae1a4-e76f-4ea3-9520-76df40dda3fc",
+                "identifier": "7baae1a4-e76f-4ea3-9520-76df40dda3fc",
+                "beginPosition": "2019-09-12T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 65.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7fbba68e-44ad-4736-a1e2-8143342f37d2",
+                "identifier": "7fbba68e-44ad-4736-a1e2-8143342f37d2",
+                "beginPosition": "2019-12-05T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 62.33,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8357dd9c-e31e-46ba-bc43-3a2c0b6ebda6",
+                "identifier": "8357dd9c-e31e-46ba-bc43-3a2c0b6ebda6",
+                "beginPosition": "2020-01-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 50.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.85db68f4-45d1-403c-82b3-ab1c000058e2",
+                "identifier": "85db68f4-45d1-403c-82b3-ab1c000058e2",
+                "beginPosition": "2020-01-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 63.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.861a9b08-702f-4f57-84c2-6c614d0fecb3",
+                "identifier": "861a9b08-702f-4f57-84c2-6c614d0fecb3",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 71.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8839bf19-5b9d-43e6-8142-720e49733541",
+                "identifier": "8839bf19-5b9d-43e6-8142-720e49733541",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 66.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8d320310-72d2-4348-82ef-983b47975df0",
+                "identifier": "8d320310-72d2-4348-82ef-983b47975df0",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 51.67,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8f057276-554d-4afd-932d-0f5418077f9e",
+                "identifier": "8f057276-554d-4afd-932d-0f5418077f9e",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 54.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8f5409aa-3bc7-4c34-8201-e15718e51600",
+                "identifier": "8f5409aa-3bc7-4c34-8201-e15718e51600",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "AVASIS",
+                "minimumEyeHeightOverThreshold": 37.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.98ec4a1e-73e1-4351-9dea-f571e180e53f",
+                "identifier": "98ec4a1e-73e1-4351-9dea-f571e180e53f",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 72.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9b0703ca-1012-4921-a7d5-044ae5770e19",
+                "identifier": "9b0703ca-1012-4921-a7d5-044ae5770e19",
+                "beginPosition": "2013-06-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": "2013-06-27T00:00:00",
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 73.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9c693854-7c55-4c1c-af1d-29304e00f9e5",
+                "identifier": "9c693854-7c55-4c1c-af1d-29304e00f9e5",
+                "beginPosition": "2020-04-23T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 40.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9f43ca02-ded6-40fe-a09c-bc641fda2fe6",
+                "identifier": "9f43ca02-ded6-40fe-a09c-bc641fda2fe6",
+                "beginPosition": "2018-03-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 51.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9f680faa-c6e8-4bf3-bb5c-a2566cae73ae",
+                "identifier": "9f680faa-c6e8-4bf3-bb5c-a2566cae73ae",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": null,
+                "minimumEyeHeightOverThreshold_uom": null,
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a0123421-c214-4b64-9daa-eca1d4aaa974",
+                "identifier": "a0123421-c214-4b64-9daa-eca1d4aaa974",
+                "beginPosition": "2020-06-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 42.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a170cdf6-82f5-4e0b-9a37-2677026f7630",
+                "identifier": "a170cdf6-82f5-4e0b-9a37-2677026f7630",
+                "beginPosition": "2018-01-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 54.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a49d29e8-07d8-47b8-aee4-600ba4bf1939",
+                "identifier": "a49d29e8-07d8-47b8-aee4-600ba4bf1939",
+                "beginPosition": "2019-05-23T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 62.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a5cef22b-492f-4db6-aef2-e4f35f0b4a9b",
+                "identifier": "a5cef22b-492f-4db6-aef2-e4f35f0b4a9b",
+                "beginPosition": "2020-04-23T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 68.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a91a13fb-f31a-4cbc-b52f-8cc8908a1226",
+                "identifier": "a91a13fb-f31a-4cbc-b52f-8cc8908a1226",
+                "beginPosition": "2019-08-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 46.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "OTHER",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a92b2a92-438e-43c7-8c3a-fd88665fc17a",
+                "identifier": "a92b2a92-438e-43c7-8c3a-fd88665fc17a",
+                "beginPosition": "2018-01-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 70.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b11d8175-9342-4755-84b0-68e6f5513fd8",
+                "identifier": "b11d8175-9342-4755-84b0-68e6f5513fd8",
+                "beginPosition": "2020-01-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 37.4,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b5b88172-cf72-46e7-86a5-bfe3101d509c",
+                "identifier": "b5b88172-cf72-46e7-86a5-bfe3101d509c",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 71.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b651c890-02ff-405a-a673-cd60e4f725cf",
+                "identifier": "b651c890-02ff-405a-a673-cd60e4f725cf",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 54.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b7880cbb-33d2-4767-9eaf-c0b36916bee8",
+                "identifier": "b7880cbb-33d2-4767-9eaf-c0b36916bee8",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 67.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b835957c-1105-4407-9325-6cb08ed3175e",
+                "identifier": "b835957c-1105-4407-9325-6cb08ed3175e",
+                "beginPosition": "2020-09-10T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 23.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b8f05097-9f43-4a38-b1f5-6330d4ab6daa",
+                "identifier": "b8f05097-9f43-4a38-b1f5-6330d4ab6daa",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 46.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.bacf8601-cfe5-4547-951b-f7143471b39e",
+                "identifier": "bacf8601-cfe5-4547-951b-f7143471b39e",
+                "beginPosition": "2019-02-28T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 58.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.be65c5dc-8bce-46ff-b283-43dcb1048b90",
+                "identifier": "be65c5dc-8bce-46ff-b283-43dcb1048b90",
+                "beginPosition": "2013-06-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": "2013-06-27T00:00:00",
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 55.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "RIGHT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c1defcce-6040-44af-b744-fd96e25d3b5e",
+                "identifier": "c1defcce-6040-44af-b744-fd96e25d3b5e",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 40.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c4487ac3-8296-4260-965b-077d326f3c9b",
+                "identifier": "c4487ac3-8296-4260-965b-077d326f3c9b",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 50.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c83a2e48-e747-41ab-8bd7-b972ee775f92",
+                "identifier": "c83a2e48-e747-41ab-8bd7-b972ee775f92",
+                "beginPosition": "2020-01-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 48.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c949e939-d25d-4c40-b862-8d97a992a2f6",
+                "identifier": "c949e939-d25d-4c40-b862-8d97a992a2f6",
+                "beginPosition": "2016-08-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-08-18T00:00:00",
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 0.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": 0.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c96a2cfb-5612-44fa-b4cd-d4867e09a245",
+                "identifier": "c96a2cfb-5612-44fa-b4cd-d4867e09a245",
+                "beginPosition": "2019-05-23T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "APAPI",
+                "minimumEyeHeightOverThreshold": 46.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": 3.66
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ca2177ec-b205-409b-8145-97d27b6f5ab2",
+                "identifier": "ca2177ec-b205-409b-8145-97d27b6f5ab2",
+                "beginPosition": "2020-10-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 62.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.cd6cb30e-5248-41ea-bd6b-36c5a5cad07d",
+                "identifier": "cd6cb30e-5248-41ea-bd6b-36c5a5cad07d",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 56.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d012ffd6-ba3f-4dcd-a411-d084ad23f28d",
+                "identifier": "d012ffd6-ba3f-4dcd-a411-d084ad23f28d",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 50.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d43c1629-1dae-467f-b9e4-d2c18746bc4c",
+                "identifier": "d43c1629-1dae-467f-b9e4-d2c18746bc4c",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 62.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d45def85-062d-4425-9cd9-a59647bf2c7c",
+                "identifier": "d45def85-062d-4425-9cd9-a59647bf2c7c",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 61.4,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d6760447-fa21-4654-8f22-602e3f57329a",
+                "identifier": "d6760447-fa21-4654-8f22-602e3f57329a",
+                "beginPosition": "2019-11-07T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 89.77,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "RIGHT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d966aff7-5a79-4772-b84d-9e94b03958e8",
+                "identifier": "d966aff7-5a79-4772-b84d-9e94b03958e8",
+                "beginPosition": "2020-08-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 55.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.da5869ac-0eb1-4520-83dc-35e2c9e8e735",
+                "identifier": "da5869ac-0eb1-4520-83dc-35e2c9e8e735",
+                "beginPosition": "2020-07-16T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 57.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.dbb87cec-c7ae-43b5-9ac4-88497eeace70",
+                "identifier": "dbb87cec-c7ae-43b5-9ac4-88497eeace70",
+                "beginPosition": "2013-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": null,
+                "minimumEyeHeightOverThreshold_uom": null,
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.dc6cc8d1-0806-4f9d-9673-78e63d3033f7",
+                "identifier": "dc6cc8d1-0806-4f9d-9673-78e63d3033f7",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 61.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e246e504-9146-4c2c-a8bb-d7c8646c355b",
+                "identifier": "e246e504-9146-4c2c-a8bb-d7c8646c355b",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 62.41,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e6c6e829-93b1-4e94-8abe-e5290b452060",
+                "identifier": "e6c6e829-93b1-4e94-8abe-e5290b452060",
+                "beginPosition": "2020-02-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 61.48,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e75a519a-570b-43af-bd35-e737484ef01f",
+                "identifier": "e75a519a-570b-43af-bd35-e737484ef01f",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "AVASIS",
+                "minimumEyeHeightOverThreshold": 40.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e7dcf72a-bd90-41fa-872d-75a0e553aa05",
+                "identifier": "e7dcf72a-bd90-41fa-872d-75a0e553aa05",
+                "beginPosition": "2020-06-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 60.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e8fce3ff-2a88-4432-a426-3418ea0e8511",
+                "identifier": "e8fce3ff-2a88-4432-a426-3418ea0e8511",
+                "beginPosition": "2018-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 28.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e902f915-8454-4483-aae7-c9e2633339ad",
+                "identifier": "e902f915-8454-4483-aae7-c9e2633339ad",
+                "beginPosition": "2019-07-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 47.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ed89fe26-c9bc-4d7d-ac39-c8f29feebf02",
+                "identifier": "ed89fe26-c9bc-4d7d-ac39-c8f29feebf02",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 64.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "BOTH",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f0ec0658-b3c6-4e70-901b-9b640c7a488b",
+                "identifier": "f0ec0658-b3c6-4e70-901b-9b640c7a488b",
+                "beginPosition": "2020-10-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "AVASIS",
+                "minimumEyeHeightOverThreshold": null,
+                "minimumEyeHeightOverThreshold_uom": null,
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f13fa7fc-d72e-4544-b72c-542681c0e494",
+                "identifier": "f13fa7fc-d72e-4544-b72c-542681c0e494",
+                "beginPosition": "2018-01-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 58.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f26d4770-a528-4d7c-8e31-338697354646",
+                "identifier": "f26d4770-a528-4d7c-8e31-338697354646",
+                "beginPosition": "2020-10-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 40.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": 3.5
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f26f9582-21a1-42c1-a2d1-a0673ae0c07c",
+                "identifier": "f26f9582-21a1-42c1-a2d1-a0673ae0c07c",
+                "beginPosition": "2020-08-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 56.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f4646b15-fc4e-43b9-a9a5-c27e879a55d8",
+                "identifier": "f4646b15-fc4e-43b9-a9a5-c27e879a55d8",
+                "beginPosition": "2017-07-20T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 39.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": null,
+                "slopeAngle": 3.0
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f4a38fa6-ef97-4a11-b117-9da24d7c5305",
+                "identifier": "f4a38fa6-ef97-4a11-b117-9da24d7c5305",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 48.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": null,
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f751f763-7ad1-4871-8ed4-b3e2737e750c",
+                "identifier": "f751f763-7ad1-4871-8ed4-b3e2737e750c",
+                "beginPosition": "2020-04-23T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 53.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": null,
+                "slopeAngle": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ffe1361d-95f6-4124-b681-edc88fcb720a",
+                "identifier": "ffe1361d-95f6-4124-b681-edc88fcb720a",
+                "beginPosition": "2020-02-27T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|VisualGlideSlopeIndicatorTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "type": "PAPI",
+                "minimumEyeHeightOverThreshold": 41.0,
+                "minimumEyeHeightOverThreshold_uom": "FT",
+                "position": "LEFT",
+                "numberBox": 4,
+                "slopeAngle": null
+            }
+        }
+    ]
+}

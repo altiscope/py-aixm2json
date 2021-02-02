@@ -1,0 +1,863 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.01edff51-2a8c-476f-9d24-6fc8f10906a7",
+                "identifier": "01edff51-2a8c-476f-9d24-6fc8f10906a7",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbnt desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.050a3e22-d065-4569-b9f8-210495e15475",
+                "identifier": "050a3e22-d065-4569-b9f8-210495e15475",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcz desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.07649737-0c90-4e98-bdbe-3bb871ec79b0",
+                "identifier": "07649737-0c90-4e98-bdbe-3bb871ec79b0",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbrj desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.098695e8-b4c3-4a43-aa41-a0209b01515a",
+                "identifier": "098695e8-b4c3-4a43-aa41-a0209b01515a",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbrp desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0c2ef2d9-1587-408c-867c-a38074f921bf",
+                "identifier": "0c2ef2d9-1587-408c-867c-a38074f921bf",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbrb desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0f6bbffd-552e-4481-bf67-6a0682211251",
+                "identifier": "0f6bbffd-552e-4481-bf67-6a0682211251",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbtt desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0f75b0fc-6c8d-4723-be0f-12bf6a78d47d",
+                "identifier": "0f75b0fc-6c8d-4723-be0f-12bf6a78d47d",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbfi desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.18d1dc8c-d69d-4a83-bff2-1abda79736a6",
+                "identifier": "18d1dc8c-d69d-4a83-bff2-1abda79736a6",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbgr",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1b2a55a7-6795-4d49-b061-8721b44d5e3f",
+                "identifier": "1b2a55a7-6795-4d49-b061-8721b44d5e3f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbkp desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1b612812-dc2a-40dc-94f9-459b335d8836",
+                "identifier": "1b612812-dc2a-40dc-94f9-459b335d8836",
+                "beginPosition": "2016-09-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcg desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-09-15T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1cf706f7-18cc-40df-865c-aea1c553ca8d",
+                "identifier": "1cf706f7-18cc-40df-865c-aea1c553ca8d",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbkp desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1e936fd2-d3ff-4dbd-9d15-8cee3af3f456",
+                "identifier": "1e936fd2-d3ff-4dbd-9d15-8cee3af3f456",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbpv desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.28fcade7-8365-4bf4-bec6-c1ecf6a80148",
+                "identifier": "28fcade7-8365-4bf4-bec6-c1ecf6a80148",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbmo desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2c76eb48-8bd2-403d-930f-0574aba7a094",
+                "identifier": "2c76eb48-8bd2-403d-930f-0574aba7a094",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbpk desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2e274928-c247-4064-9939-4606f609eac2",
+                "identifier": "2e274928-c247-4064-9939-4606f609eac2",
+                "beginPosition": "2017-11-09T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "twy1-thr24",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-11-09T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2fa34aa5-cfa5-41c3-8bfb-af55f2e27385",
+                "identifier": "2fa34aa5-cfa5-41c3-8bfb-af55f2e27385",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcr desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.30b971be-4759-41f2-a307-7ddd45ba52a7",
+                "identifier": "30b971be-4759-41f2-a307-7ddd45ba52a7",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbr desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3612fe76-d553-412c-a3f0-f8828233aa0e",
+                "identifier": "3612fe76-d553-412c-a3f0-f8828233aa0e",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcf desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.41e198d3-7643-406e-b4f9-1dffa3746e5c",
+                "identifier": "41e198d3-7643-406e-b4f9-1dffa3746e5c",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbjp desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.485f8aaf-4b2e-460f-a153-628fbd90c50f",
+                "identifier": "485f8aaf-4b2e-460f-a153-628fbd90c50f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcp desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.495b454d-63d7-4318-ac1b-19eb6395ef5d",
+                "identifier": "495b454d-63d7-4318-ac1b-19eb6395ef5d",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbgl desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.49e56e49-9cab-493b-a096-1c13c0913b9d",
+                "identifier": "49e56e49-9cab-493b-a096-1c13c0913b9d",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbpa desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.4bdbd612-ec1e-490d-944c-514ade51ab2a",
+                "identifier": "4bdbd612-ec1e-490d-944c-514ade51ab2a",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbh desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.51c225e8-7e7b-47f4-b14b-b32b795042b1",
+                "identifier": "51c225e8-7e7b-47f4-b14b-b32b795042b1",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcy design",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.57e4312d-93e9-4e94-95d9-86c55915dbeb",
+                "identifier": "57e4312d-93e9-4e94-95d9-86c55915dbeb",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbmo apron",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": "2012-03-08T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5871f5d4-0c83-4c24-beb8-cce4f8072676",
+                "identifier": "5871f5d4-0c83-4c24-beb8-cce4f8072676",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbg desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.5a3d2fe0-a3cf-4704-b71e-9154cadf6bf2",
+                "identifier": "5a3d2fe0-a3cf-4704-b71e-9154cadf6bf2",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcf desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.6f56d028-9ce0-4b2f-9f8d-e624a9affdc4",
+                "identifier": "6f56d028-9ce0-4b2f-9f8d-e624a9affdc4",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcb desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7b248168-8c05-4386-8c18-81863aa70eab",
+                "identifier": "7b248168-8c05-4386-8c18-81863aa70eab",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbh desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7df87ce9-cdcc-41f5-bdef-a30de6b913d3",
+                "identifier": "7df87ce9-cdcc-41f5-bdef-a30de6b913d3",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbct desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.85a805d8-9ee4-477e-ac53-627f1fca7b18",
+                "identifier": "85a805d8-9ee4-477e-ac53-627f1fca7b18",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcr desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.85ff8d3c-c335-42c7-bd5d-bba8b4ff9a68",
+                "identifier": "85ff8d3c-c335-42c7-bd5d-bba8b4ff9a68",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbfl desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8ce8ee1e-c2bd-4a89-85fa-0c003a310719",
+                "identifier": "8ce8ee1e-c2bd-4a89-85fa-0c003a310719",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbct desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8dfaaab4-45b1-4a78-ae64-72d6df2c403f",
+                "identifier": "8dfaaab4-45b1-4a78-ae64-72d6df2c403f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcp desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.91016a1a-1329-41c6-aec7-13bf8ed84260",
+                "identifier": "91016a1a-1329-41c6-aec7-13bf8ed84260",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbsj desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.91ba6fd3-7725-4c67-9144-597495de980b",
+                "identifier": "91ba6fd3-7725-4c67-9144-597495de980b",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbsl design",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9492ef80-55a2-4a76-88ed-3dc28782faf5",
+                "identifier": "9492ef80-55a2-4a76-88ed-3dc28782faf5",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbg desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.973c8d74-d751-4320-94b3-70bf061fa4a8",
+                "identifier": "973c8d74-d751-4320-94b3-70bf061fa4a8",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbnf desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.97e0f815-2675-44ab-ba2e-4d1889b7de50",
+                "identifier": "97e0f815-2675-44ab-ba2e-4d1889b7de50",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbr desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9e633a51-7d14-4c7f-8534-4f6ad6420511",
+                "identifier": "9e633a51-7d14-4c7f-8534-4f6ad6420511",
+                "beginPosition": "2016-09-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcg desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a9905a24-967f-4100-93d2-4da549555d18",
+                "identifier": "a9905a24-967f-4100-93d2-4da549555d18",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbeg desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.af05f4af-3507-4f73-9b68-bffbba94588d",
+                "identifier": "af05f4af-3507-4f73-9b68-bffbba94588d",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbrf desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.afd4b4e1-d627-4ab9-a780-92ebf55cbce1",
+                "identifier": "afd4b4e1-d627-4ab9-a780-92ebf55cbce1",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbug desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b1172d7f-1e7e-4f7d-a6e3-f294405790fa",
+                "identifier": "b1172d7f-1e7e-4f7d-a6e3-f294405790fa",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbpj desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b993bbe2-cb89-4263-b37e-50a4cabfeff2",
+                "identifier": "b993bbe2-cb89-4263-b37e-50a4cabfeff2",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcg desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.bbbe0072-8678-4920-9999-12c1db3f6987",
+                "identifier": "bbbe0072-8678-4920-9999-12c1db3f6987",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbsn desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c14d4cfd-20d0-4183-aa5b-7149cfe4610d",
+                "identifier": "c14d4cfd-20d0-4183-aa5b-7149cfe4610d",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcz desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c29355c7-6c5a-41db-a7bf-0a08c0a78802",
+                "identifier": "c29355c7-6c5a-41db-a7bf-0a08c0a78802",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbfz desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c51b358e-796e-426e-8ca2-9f556e59870c",
+                "identifier": "c51b358e-796e-426e-8ca2-9f556e59870c",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbv desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c71a2ad3-4ee2-4e5a-b041-6d913c81f78f",
+                "identifier": "c71a2ad3-4ee2-4e5a-b041-6d913c81f78f",
+                "beginPosition": "2012-05-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbps desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": "2012-05-03T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.cff891c7-83c7-4776-aecb-55a3be3c3aed",
+                "identifier": "cff891c7-83c7-4776-aecb-55a3be3c3aed",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbsp desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d1027264-dfd0-46dd-a831-fd72869452e2",
+                "identifier": "d1027264-dfd0-46dd-a831-fd72869452e2",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcy desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d1a8ad7d-6f36-4619-9c0b-f683d563a36c",
+                "identifier": "d1a8ad7d-6f36-4619-9c0b-f683d563a36c",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbmq desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d516c330-396d-4595-9595-de4fced1b5d0",
+                "identifier": "d516c330-396d-4595-9595-de4fced1b5d0",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbfz desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d5f8d587-c9f0-40eb-a1ff-986b5be85615",
+                "identifier": "d5f8d587-c9f0-40eb-a1ff-986b5be85615",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbfl desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d9cab95c-a98c-41b8-b638-4a8d44b9cd7c",
+                "identifier": "d9cab95c-a98c-41b8-b638-4a8d44b9cd7c",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbvt desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.dc7e0c87-2262-41a1-9c00-fe9eb0ca938a",
+                "identifier": "dc7e0c87-2262-41a1-9c00-fe9eb0ca938a",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcy desig",
+                "type": "RWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e419f5a2-70d8-44ea-8a6a-c7ad3aebbdb2",
+                "identifier": "e419f5a2-70d8-44ea-8a6a-c7ad3aebbdb2",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbpp desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e42e800c-f11a-40e5-8439-253de2e7e3f7",
+                "identifier": "e42e800c-f11a-40e5-8439-253de2e7e3f7",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbe desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e694122c-a595-48a7-a186-a7a01e39545a",
+                "identifier": "e694122c-a595-48a7-a186-a7a01e39545a",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbar desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ee6c6f64-6cb7-4723-9802-7e289629c3c7",
+                "identifier": "ee6c6f64-6cb7-4723-9802-7e289629c3c7",
+                "beginPosition": "2014-04-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbsg desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-04-03T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ee98bbb8-23bc-4408-b296-7ecc674d9492",
+                "identifier": "ee98bbb8-23bc-4408-b296-7ecc674d9492",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbsv disig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f02a603d-10c9-4ace-830c-3471be68d327",
+                "identifier": "f02a603d-10c9-4ace-830c-3471be68d327",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbv desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f17de1d9-7469-4b8d-8c2e-a3214647b568",
+                "identifier": "f17de1d9-7469-4b8d-8c2e-a3214647b568",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbbe desig",
+                "type": "TWY",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f4765b4e-70cd-4fee-b044-b8356648ea94",
+                "identifier": "f4765b4e-70cd-4fee-b044-b8356648ea94",
+                "beginPosition": "2014-11-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": null,
+                "type": null,
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-11-13T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ffc0e062-c857-407f-b055-68e76bfd3f74",
+                "identifier": "ffc0e062-c857-407f-b055-68e76bfd3f74",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "designator": "sbcb desig",
+                "type": "APRON",
+                "timeSlice|GuidanceLineTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        }
+    ]
+}

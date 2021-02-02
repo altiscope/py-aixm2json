@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.4fd875c5-9a73-43b5-a159-a4898a70ee95",
+                "identifier": "4fd875c5-9a73-43b5-a159-a4898a70ee95",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|StandardLevelColumnTimeSlice|featureLifetime|TimePeriod|beginPosition": "2019-01-03T00:00:00",
+                "unitOfMeasurement": null,
+                "verticalDistance": [
+                    160.0
+                ],
+                "verticalDistance_uom": [
+                    "FL"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c3e185bc-0987-448e-afdd-fb2717738281",
+                "identifier": "c3e185bc-0987-448e-afdd-fb2717738281",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|StandardLevelColumnTimeSlice|featureLifetime|TimePeriod|beginPosition": "2019-01-03T00:00:00",
+                "unitOfMeasurement": null,
+                "verticalDistance": [
+                    150.0,
+                    210.0
+                ],
+                "verticalDistance_uom": [
+                    "FL",
+                    "FL"
+                ]
+            }
+        }
+    ]
+}

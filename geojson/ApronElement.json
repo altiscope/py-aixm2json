@@ -1,0 +1,411 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.09e4589f-7fdf-42c2-a4a8-061aa4137fe9",
+                "identifier": "09e4589f-7fdf-42c2-a4a8-061aa4137fe9",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2597.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0caf67aa-229c-4667-8a8a-88a69668eadc",
+                "identifier": "0caf67aa-229c-4667-8a8a-88a69668eadc",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2595.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0efcb3fd-fb3f-49ad-8a9c-640c80108676",
+                "identifier": "0efcb3fd-fb3f-49ad-8a9c-640c80108676",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2612.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1c02a738-ba61-489d-8742-f3ec4f5997f6",
+                "identifier": "1c02a738-ba61-489d-8742-f3ec4f5997f6",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2616.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1cc12342-0ae8-40e2-9c38-12c19f03c8f2",
+                "identifier": "1cc12342-0ae8-40e2-9c38-12c19f03c8f2",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2615.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1e8d218f-fb19-4cc1-b72c-1c962bb12fcc",
+                "identifier": "1e8d218f-fb19-4cc1-b72c-1c962bb12fcc",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2606.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.22fc3bb6-75df-466b-90aa-eedcfc197b8e",
+                "identifier": "22fc3bb6-75df-466b-90aa-eedcfc197b8e",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2597.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2a75b127-0ffd-4f89-bd1d-a32c7f73c6b7",
+                "identifier": "2a75b127-0ffd-4f89-bd1d-a32c7f73c6b7",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2597.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.4bee044b-4ad9-475f-aad1-345122e4f6b2",
+                "identifier": "4bee044b-4ad9-475f-aad1-345122e4f6b2",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2609.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.4d6ac287-6e8a-4fb4-aa97-ce6c1ecd603c",
+                "identifier": "4d6ac287-6e8a-4fb4-aa97-ce6c1ecd603c",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2590.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.52a73614-7e44-42da-a39e-4fce3ae043e9",
+                "identifier": "52a73614-7e44-42da-a39e-4fce3ae043e9",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2605.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.53dd1316-2902-4554-89c6-cc39f109978a",
+                "identifier": "53dd1316-2902-4554-89c6-cc39f109978a",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2614.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7f0ab17f-7fa2-41dd-af3a-22d47183d430",
+                "identifier": "7f0ab17f-7fa2-41dd-af3a-22d47183d430",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2608.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8cde9163-1ebe-4086-a51e-7fc925f38bb4",
+                "identifier": "8cde9163-1ebe-4086-a51e-7fc925f38bb4",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2599.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.94540562-f82b-49bf-b375-15f6c2196368",
+                "identifier": "94540562-f82b-49bf-b375-15f6c2196368",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2610.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9b79d755-e2eb-461c-8bbe-c74cc3029b32",
+                "identifier": "9b79d755-e2eb-461c-8bbe-c74cc3029b32",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2604.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.a6fc836f-cbab-4bc0-9a73-1dad22e9474e",
+                "identifier": "a6fc836f-cbab-4bc0-9a73-1dad22e9474e",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2611.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b29eb545-f7af-4d7b-aa53-d76f817d44fa",
+                "identifier": "b29eb545-f7af-4d7b-aa53-d76f817d44fa",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2607.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.be0fe940-0eb9-4fed-9795-2b40e1e0b6b6",
+                "identifier": "be0fe940-0eb9-4fed-9795-2b40e1e0b6b6",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2606.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c30074ea-8163-4f76-bdcd-d547a91efc9e",
+                "identifier": "c30074ea-8163-4f76-bdcd-d547a91efc9e",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2505.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c6197fb4-2576-4251-a781-b2b9bdf0b72d",
+                "identifier": "c6197fb4-2576-4251-a781-b2b9bdf0b72d",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2593.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ce70b780-9530-4da4-b460-66d06d6f2e10",
+                "identifier": "ce70b780-9530-4da4-b460-66d06d6f2e10",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2610.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e66c60b5-8dbd-4c5a-b587-5476f0e32beb",
+                "identifier": "e66c60b5-8dbd-4c5a-b587-5476f0e32beb",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2604.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f02be92c-3b49-4668-903a-8eae96bf5f6a",
+                "identifier": "f02be92c-3b49-4668-903a-8eae96bf5f6a",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2609.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f07ba9f5-e29b-430d-8955-9339b53dba50",
+                "identifier": "f07ba9f5-e29b-430d-8955-9339b53dba50",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2610.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f5a18284-0f6d-4254-a9c1-1289ed9b94af",
+                "identifier": "f5a18284-0f6d-4254-a9c1-1289ed9b94af",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2612.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f658616f-3cae-460a-9468-69a437bd3dbf",
+                "identifier": "f658616f-3cae-460a-9468-69a437bd3dbf",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2590.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f7d58496-0626-4436-9609-862733ab9fe3",
+                "identifier": "f7d58496-0626-4436-9609-862733ab9fe3",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2600.0,
+                "elevation_uom": "FT"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.fb762428-e612-42c3-b4f4-fdd104724a0e",
+                "identifier": "fb762428-e612-42c3-b4f4-fdd104724a0e",
+                "beginPosition": "2011-12-15T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|ApronElementTimeSlice|featureLifetime|TimePeriod|beginPosition": "2011-12-15T00:00:00",
+                "type": "PARKING",
+                "elevation": 2608.0,
+                "elevation_uom": "FT"
+            }
+        }
+    ]
+}

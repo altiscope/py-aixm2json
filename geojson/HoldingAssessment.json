@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.2c50bc45-0ac0-4331-883e-24962f9a4e2b",
+                "identifier": "2c50bc45-0ac0-4331-883e-24962f9a4e2b",
+                "beginPosition": "2016-08-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|HoldingAssessmentTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-08-18T00:00:00",
+                "patternTemplate": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2c87baa3-0a20-4c7c-a1cf-f0d296e604fb",
+                "identifier": "2c87baa3-0a20-4c7c-a1cf-f0d296e604fb",
+                "beginPosition": "2016-08-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|HoldingAssessmentTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-08-18T00:00:00",
+                "patternTemplate": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d17b83bd-29ad-4afc-9849-a1e4e379f9ab",
+                "identifier": "d17b83bd-29ad-4afc-9849-a1e4e379f9ab",
+                "beginPosition": "2020-08-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|HoldingAssessmentTimeSlice|featureLifetime|TimePeriod|beginPosition": "2020-08-13T00:00:00",
+                "patternTemplate": 0
+            }
+        }
+    ]
+}

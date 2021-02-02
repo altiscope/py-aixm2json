@@ -1,0 +1,752 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.24643d1f-2d67-4561-853e-f274ae2da9cd",
+                "identifier": "24643d1f-2d67-4561-853e-f274ae2da9cd",
+                "beginPosition": "2018-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\TESTE_MDT\\SSAPLUS$IAC_RNAV_VNAV\\AIXM\\IAC_RNAV_VNAV.XML",
+                "Date": "2017-03-16",
+                "endConditionDesignator": "OTHER",
+                "legPath": "STRAIGHT",
+                "legTypeARINC": "TF",
+                "course": 254.645439327031,
+                "courseType": "TRUE_BRG",
+                "length": 10.9201229079308,
+                "length_uom": "NM",
+                "procedureTurnRequired": "NO",
+                "lowerLimitAltitude": 1897.8171146003,
+                "lowerLimitAltitude_uom": "FT",
+                "lowerLimitReference": "MSL",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": 1.43209618416465,
+                "reportingATC": "NO_REPORT",
+                "flyOver": "YES",
+                "role": "MAHF",
+                "indicatorFACF": "NO",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "duration": null,
+                "duration_uom": null,
+                "timeSlice|MissedApproachLegTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "holdingUse": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2f460cf9-9dc0-45c7-a88a-bbacc59384c7",
+                "identifier": "2f460cf9-9dc0-45c7-a88a-bbacc59384c7",
+                "beginPosition": "2020-10-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": null,
+                "Date": null,
+                "endConditionDesignator": "OTHER",
+                "legPath": "HOLDING",
+                "legTypeARINC": "HM",
+                "course": 327.158337846317,
+                "courseType": "MAG_BRG",
+                "length": null,
+                "length_uom": null,
+                "procedureTurnRequired": "NO",
+                "lowerLimitAltitude": 3083.12128009544,
+                "lowerLimitAltitude_uom": "FT",
+                "lowerLimitReference": "MSL",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": 0.0,
+                "reportingATC": "NO_REPORT",
+                "flyOver": "YES",
+                "role": "MAHF",
+                "indicatorFACF": "NO",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "PRIMARY",
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    1,
+                    2,
+                    1,
+                    2
+                ],
+                "turnDirection": "RIGHT",
+                "duration": 1.0,
+                "duration_uom": "MIN",
+                "timeSlice|MissedApproachLegTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "holdingUse": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.44564017549684,
+                            -35.93412444085818
+                        ],
+                        [
+                            -7.445193910635326,
+                            -35.92249047256926
+                        ],
+                        [
+                            -7.443591767074263,
+                            -35.908684580734544
+                        ],
+                        [
+                            -7.442055561792803,
+                            -35.90002216996169
+                        ],
+                        [
+                            -7.439608652568779,
+                            -35.88874696819913
+                        ],
+                        [
+                            -7.435667047693678,
+                            -35.87557384420708
+                        ],
+                        [
+                            -7.432633447393749,
+                            -35.86727096369671
+                        ],
+                        [
+                            -7.428296335833169,
+                            -35.856694106391714
+                        ],
+                        [
+                            -7.422185506494571,
+                            -35.84454501277064
+                        ],
+                        [
+                            -7.417732276460021,
+                            -35.836859773654055
+                        ],
+                        [
+                            -7.411671760851703,
+                            -35.82729334210035
+                        ],
+                        [
+                            -7.403625903068231,
+                            -35.816519552397494
+                        ],
+                        [
+                            -7.397874799316661,
+                            -35.80969387577222
+                        ],
+                        [
+                            -7.390307897382604,
+                            -35.80141323096466
+                        ],
+                        [
+                            -7.380616527121082,
+                            -35.79231573572699
+                        ],
+                        [
+                            -7.373730060472754,
+                            -35.786567870918695
+                        ],
+                        [
+                            -7.365794143842244,
+                            -35.780436167342
+                        ],
+                        [
+                            -7.341563467379373,
+                            -35.763890670822576
+                        ],
+                        [
+                            -7.332821296822169,
+                            -35.75883820662991
+                        ],
+                        [
+                            -7.323054251658438,
+                            -35.75377065025867
+                        ],
+                        [
+                            -7.311109119899623,
+                            -35.74868756495524
+                        ],
+                        [
+                            -7.302578843003529,
+                            -35.745622330291866
+                        ],
+                        [
+                            -7.292176120462353,
+                            -35.74237501353866
+                        ],
+                        [
+                            -7.279677720459644,
+                            -35.73949495139306
+                        ],
+                        [
+                            -7.270693800049111,
+                            -35.73795634420348
+                        ],
+                        [
+                            -7.259986817004574,
+                            -35.736594796526376
+                        ],
+                        [
+                            -7.247333041591504,
+                            -35.735953960184005
+                        ],
+                        [
+                            -7.238165654932121,
+                            -35.73600665981657
+                        ],
+                        [
+                            -7.227489132858803,
+                            -35.73653694242858
+                        ],
+                        [
+                            -7.213222467156634,
+                            -35.738406394364695
+                        ],
+                        [
+                            -7.206001607241779,
+                            -35.73976169646696
+                        ],
+                        [
+                            -7.155259533084596,
+                            -35.75136206698808
+                        ],
+                        [
+                            -7.141954506182633,
+                            -35.7555776451424
+                        ],
+                        [
+                            -7.128874441716095,
+                            -35.76101617511009
+                        ],
+                        [
+                            -7.1163673142473,
+                            -35.767559820025525
+                        ],
+                        [
+                            -7.104525652920891,
+                            -35.775150102691725
+                        ],
+                        [
+                            -7.093436192270253,
+                            -35.78372085631982
+                        ],
+                        [
+                            -7.083179238957468,
+                            -35.79319879009328
+                        ],
+                        [
+                            -7.073828092578133,
+                            -35.80350410588382
+                        ],
+                        [
+                            -7.06570801512396,
+                            -35.81417804294655
+                        ],
+                        [
+                            -7.049173139962158,
+                            -35.83785928285907
+                        ],
+                        [
+                            -7.044621895274709,
+                            -35.84505359958936
+                        ],
+                        [
+                            -7.041846611524272,
+                            -35.84980964179663
+                        ],
+                        [
+                            -7.039389354194976,
+                            -35.85473782056698
+                        ],
+                        [
+                            -7.022655733833812,
+                            -35.89141355786682
+                        ],
+                        [
+                            -7.018028506955871,
+                            -35.90415132192201
+                        ],
+                        [
+                            -6.999013059754091,
+                            -35.96432441939634
+                        ],
+                        [
+                            -6.996247950068928,
+                            -35.97475201066427
+                        ],
+                        [
+                            -6.994081504074669,
+                            -35.98532040266236
+                        ],
+                        [
+                            -6.992764307848712,
+                            -35.9939047300603
+                        ],
+                        [
+                            -6.991662387716476,
+                            -36.00463667631248
+                        ],
+                        [
+                            -6.991173768294894,
+                            -36.01541403272534
+                        ],
+                        [
+                            -6.991213969219841,
+                            -36.02409886438757
+                        ],
+                        [
+                            -6.991802339415854,
+                            -36.03487122918312
+                        ],
+                        [
+                            -6.993003563605467,
+                            -36.045592500726
+                        ],
+                        [
+                            -6.994400172982186,
+                            -36.05416424999134
+                        ],
+                        [
+                            -6.996664363192412,
+                            -36.06471210636303
+                        ],
+                        [
+                            -6.999525887891944,
+                            -36.07511361818933
+                        ],
+                        [
+                            -7.002244557083043,
+                            -36.08336146956643
+                        ],
+                        [
+                            -7.006128880572417,
+                            -36.09342539237984
+                        ],
+                        [
+                            -7.010580326682098,
+                            -36.103251306162434
+                        ],
+                        [
+                            -7.01455418905786,
+                            -36.11097238242159
+                        ],
+                        [
+                            -7.019963107695886,
+                            -36.12030480770175
+                        ],
+                        [
+                            -7.025894985404302,
+                            -36.129313394191065
+                        ],
+                        [
+                            -7.031026295614424,
+                            -36.13631773144388
+                        ],
+                        [
+                            -7.037826762204701,
+                            -36.1446890287495
+                        ],
+                        [
+                            -7.045093155633468,
+                            -36.15265859888935
+                        ],
+                        [
+                            -7.051255686496496,
+                            -36.15877380908137
+                        ],
+                        [
+                            -7.059280407654884,
+                            -36.16597791962684
+                        ],
+                        [
+                            -7.067702553795344,
+                            -36.17271227020152
+                        ],
+                        [
+                            -7.076677885505076,
+                            -36.17900042080485
+                        ],
+                        [
+                            -7.081567254264075,
+                            -36.182093228440856
+                        ],
+                        [
+                            -7.088913273938257,
+                            -36.18629674751295
+                        ],
+                        [
+                            -7.099878374870672,
+                            -36.19146912177807
+                        ],
+                        [
+                            -7.111211863704114,
+                            -36.19563207755328
+                        ],
+                        [
+                            -7.12282185850312,
+                            -36.19876065418725
+                        ],
+                        [
+                            -7.134614945339615,
+                            -36.20083819133816
+                        ],
+                        [
+                            -7.14649692055137,
+                            -36.20185640792506
+                        ],
+                        [
+                            -7.158373534749111,
+                            -36.2018154152396
+                        ],
+                        [
+                            -7.170151232771728,
+                            -36.20072366444698
+                        ],
+                        [
+                            -7.181737883853694,
+                            -36.19859782921518
+                        ],
+                        [
+                            -7.193043496370245,
+                            -36.19546262471271
+                        ],
+                        [
+                            -7.203980911681307,
+                            -36.191350564705566
+                        ],
+                        [
+                            -7.214434557084773,
+                            -36.18631880945736
+                        ],
+                        [
+                            -7.351131322233613,
+                            -36.10499630380165
+                        ],
+                        [
+                            -7.356775427296402,
+                            -36.10131782642334
+                        ],
+                        [
+                            -7.362106145931396,
+                            -36.0971968622721
+                        ],
+                        [
+                            -7.372865763881372,
+                            -36.08805468002848
+                        ],
+                        [
+                            -7.404256239156903,
+                            -36.05662020425979
+                        ],
+                        [
+                            -7.407963189848547,
+                            -36.052643545509376
+                        ],
+                        [
+                            -7.411404942014542,
+                            -36.04843443011591
+                        ],
+                        [
+                            -7.414567007623899,
+                            -36.04401057122286
+                        ],
+                        [
+                            -7.419306737235588,
+                            -36.0361482998237
+                        ],
+                        [
+                            -7.426084796859691,
+                            -36.0234795157512
+                        ],
+                        [
+                            -7.431795164011055,
+                            -36.01033952599318
+                        ],
+                        [
+                            -7.43475769835487,
+                            -36.00218973940952
+                        ],
+                        [
+                            -7.43839821287963,
+                            -35.99091493828947
+                        ],
+                        [
+                            -7.441698404338223,
+                            -35.97711716564972
+                        ],
+                        [
+                            -7.44320622529685,
+                            -35.96853510127633
+                        ],
+                        [
+                            -7.444810237664049,
+                            -35.95689918138905
+                        ],
+                        [
+                            -7.445647107640222,
+                            -35.94287998221978
+                        ],
+                        [
+                            -7.44564017549684,
+                            -35.93412444085818
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.4a62318e-b214-4868-a8a1-2bdb76816e62",
+                "identifier": "4a62318e-b214-4868-a8a1-2bdb76816e62",
+                "beginPosition": "2020-10-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": null,
+                "Date": null,
+                "endConditionDesignator": "OTHER",
+                "legPath": "STRAIGHT",
+                "legTypeARINC": "TF",
+                "course": 305.007438945525,
+                "courseType": "TRUE_BRG",
+                "length": 10.2763509075021,
+                "length_uom": "NM",
+                "procedureTurnRequired": "NO",
+                "lowerLimitAltitude": 3213.11188841867,
+                "lowerLimitAltitude_uom": "FT",
+                "lowerLimitReference": "MSL",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": 1.43209618416465,
+                "reportingATC": "NO_REPORT",
+                "flyOver": "YES",
+                "role": "MAHF",
+                "indicatorFACF": "NO",
+                "type": [
+                    "SECONDARY",
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY",
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY",
+                    "SECONDARY",
+                    "PRIMARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    2,
+                    3,
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "duration": null,
+                "duration_uom": null,
+                "timeSlice|MissedApproachLegTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "holdingUse": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.258219782706887,
+                            -35.894515792526995
+                        ],
+                        [
+                            -7.22476733356989,
+                            -35.93089161202621
+                        ],
+                        [
+                            -7.169939238554519,
+                            -36.00924047285
+                        ],
+                        [
+                            -7.197366319434184,
+                            -36.0284875077241
+                        ],
+                        [
+                            -7.252197669527841,
+                            -35.95013626251849
+                        ],
+                        [
+                            -7.274910237264427,
+                            -35.906224063373244
+                        ],
+                        [
+                            -7.258219782706887,
+                            -35.894515792526995
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7c3cb6b0-78a0-44de-9969-6781644ed76f",
+                "identifier": "7c3cb6b0-78a0-44de-9969-6781644ed76f",
+                "beginPosition": "2018-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\TESTE_MDT\\SSAPLUS$IAC_RNAV_VNAV\\AIXM\\IAC_RNAV_VNAV.XML",
+                "Date": "2017-03-16",
+                "endConditionDesignator": "OTHER",
+                "legPath": "HOLDING",
+                "legTypeARINC": "HM",
+                "course": 254.645439327032,
+                "courseType": "TRUE_BRG",
+                "length": null,
+                "length_uom": null,
+                "procedureTurnRequired": "NO",
+                "lowerLimitAltitude": 1897.8171146003,
+                "lowerLimitAltitude_uom": "FT",
+                "lowerLimitReference": "MSL",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": 0.0,
+                "reportingATC": "NO_REPORT",
+                "flyOver": "YES",
+                "role": "MAHF",
+                "indicatorFACF": "NO",
+                "type": [
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2
+                ],
+                "turnDirection": "RIGHT",
+                "duration": 1.0,
+                "duration_uom": "MIN",
+                "timeSlice|MissedApproachLegTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "holdingUse": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c8e209cb-e5e0-4ae6-baf5-5d4c21d19b92",
+                "identifier": "c8e209cb-e5e0-4ae6-baf5-5d4c21d19b92",
+                "beginPosition": "2020-08-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": null,
+                "Date": null,
+                "endConditionDesignator": null,
+                "legPath": "STRAIGHT",
+                "legTypeARINC": "TF",
+                "course": 125.054590677819,
+                "courseType": "TRUE_BRG",
+                "length": 10.8643933581799,
+                "length_uom": "NM",
+                "procedureTurnRequired": null,
+                "lowerLimitAltitude": 3638.78406995536,
+                "lowerLimitAltitude_uom": "FT",
+                "lowerLimitReference": "MSL",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": 1.43209618416465,
+                "reportingATC": null,
+                "flyOver": "YES",
+                "role": "MAHF",
+                "indicatorFACF": null,
+                "type": [
+                    "PRIMARY",
+                    "SECONDARY",
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY",
+                    "SECONDARY",
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3,
+                    1,
+                    2,
+                    3,
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "duration": null,
+                "duration_uom": null,
+                "timeSlice|MissedApproachLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2020-08-13T00:00:00",
+                "holdingUse": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -7.276251758908625,
+                            -35.91429044243157
+                        ],
+                        [
+                            -7.328313597672172,
+                            -35.87062988691544
+                        ],
+                        [
+                            -7.39742264298626,
+                            -35.77193167429526
+                        ],
+                        [
+                            -7.383712238261567,
+                            -35.76229943851875
+                        ],
+                        [
+                            -7.314582239852602,
+                            -35.8610289750165
+                        ],
+                        [
+                            -7.269736836532602,
+                            -35.90971982818743
+                        ],
+                        [
+                            -7.276251758908625,
+                            -35.91429044243157
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "properties": null
+        },
+        {
+            "properties": null
+        }
+    ]
+}

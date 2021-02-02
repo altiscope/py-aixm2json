@@ -1,0 +1,291 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.00e22583-3128-4169-bfb6-6e4a90e777c8",
+                "identifier": "00e22583-3128-4169-bfb6-6e4a90e777c8",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-12.878575 -38.281936111",
+                "callSign": [
+                    "TRÁFEGO SALVADOR",
+                    "SALVADOR CLEARANCE"
+                ],
+                "language": [
+                    "por",
+                    "eng"
+                ],
+                "type": "CLEARANCE",
+                "name": null,
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.240b2447-711f-4d62-9dbd-c32fa8583097",
+                "identifier": "240b2447-711f-4d62-9dbd-c32fa8583097",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-19.624444444 -43.971944444",
+                "callSign": [
+                    "CONFINS CLEARENCE",
+                    "TRÁFEGO CONFINS"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": "TRÁFEGO CONFINS",
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2626efcd-51a0-42bf-9895-5e0c856070eb",
+                "identifier": "2626efcd-51a0-42bf-9895-5e0c856070eb",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-22.81 -43.250555556",
+                "callSign": [
+                    "GALEÃO TRAFFIC",
+                    "TRÁFEGO GALEÃO"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": null,
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.36c073f4-422b-4bb8-aa63-a1b1cf5ef93b",
+                "identifier": "36c073f4-422b-4bb8-aa63-a1b1cf5ef93b",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": null,
+                "callSign": [
+                    "TRÁFEGO RECIFE",
+                    "RECIFE TRAFFIC"
+                ],
+                "language": [
+                    "por",
+                    "eng"
+                ],
+                "type": "CLEARANCE",
+                "name": "TRÁFEGO",
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2019-01-03T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.442e3d50-8985-49a6-b268-2cb0ccd7fadc",
+                "identifier": "442e3d50-8985-49a6-b268-2cb0ccd7fadc",
+                "beginPosition": "2016-07-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-5.768888889 -35.366388889",
+                "callSign": [
+                    "SÃO GONÇALO TRAFFIC",
+                    "TRÁFEGO SÃO GONÇALO"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": "TRÁFEGO",
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-07-21T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.44f22359-95c1-400c-88d0-c1e528803805",
+                "identifier": "44f22359-95c1-400c-88d0-c1e528803805",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "23.435555556 46.473055556",
+                "callSign": [
+                    "GUARULHOS CLEARANCE",
+                    "TRÁFEGO GUARULHOS"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": null,
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.70d0beac-6a3e-4513-ae49-a2206dc91bd7",
+                "identifier": "70d0beac-6a3e-4513-ae49-a2206dc91bd7",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-15.869166667 -47.920833333",
+                "callSign": [
+                    "BRASÍLIA CLEARANCE",
+                    "TRÁFEGO BRASÍLIA"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": null,
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.755b2dc0-a5bd-4363-aa69-220e35cc86a6",
+                "identifier": "755b2dc0-a5bd-4363-aa69-220e35cc86a6",
+                "beginPosition": "2018-01-04T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": null,
+                "callSign": [
+                    "CURITIBA CLEARANCE",
+                    "TRÁFEGO CURITIBA"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": "TRÁFEGO",
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2018-01-04T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.90b3a684-671c-4f00-9749-31be905f0f9d",
+                "identifier": "90b3a684-671c-4f00-9749-31be905f0f9d",
+                "beginPosition": "2018-04-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-29.993888889 -51.171111111",
+                "callSign": [
+                    "TRÁFEGO PALEGRE",
+                    "PALEGRE TRAFFIC"
+                ],
+                "language": [
+                    "por",
+                    "eng"
+                ],
+                "type": "CLEARANCE",
+                "name": "TRÁFEGO PALEGRE",
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2018-04-26T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.91f55828-8354-41c3-a20c-81787d06ae17",
+                "identifier": "91f55828-8354-41c3-a20c-81787d06ae17",
+                "beginPosition": "2015-05-28T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-23.006944444 -47.134444444",
+                "callSign": [
+                    "TRÁFEGO CAMPINAS",
+                    "CAMPINAS CLEARANCE"
+                ],
+                "language": [
+                    "por",
+                    "eng"
+                ],
+                "type": "CLEARANCE",
+                "name": "TRÁFEGO CAMPINAS",
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": "2015-05-28T00:00:00"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c0584094-89c3-43a1-9da2-eabd70923010",
+                "identifier": "c0584094-89c3-43a1-9da2-eabd70923010",
+                "beginPosition": "2015-04-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-19.851944444 -43.950555556",
+                "callSign": [
+                    "BELO HORIZONTE CLEARANCE",
+                    "TRÁFEGO BELO HORIZONTE"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": "TRÁFEGO",
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.cfc59e65-6d05-4456-aa67-f686500ac391",
+                "identifier": "cfc59e65-6d05-4456-aa67-f686500ac391",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-22.910277778 -43.162777778",
+                "callSign": [
+                    "TRÁFEGO RIO",
+                    "RIO TRAFFIC"
+                ],
+                "language": [
+                    "por",
+                    "eng"
+                ],
+                "type": "CLEARANCE",
+                "name": null,
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d5b38f77-0395-4395-9c47-34dcfd8a81b9",
+                "identifier": "d5b38f77-0395-4395-9c47-34dcfd8a81b9",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "pos": "-19.851944444 -43.950555556",
+                "callSign": [
+                    "SÃO PAULO TRAFFIC",
+                    "TRÁFEGO SÃO PAULO"
+                ],
+                "language": [
+                    "eng",
+                    "por"
+                ],
+                "type": "CLEARANCE",
+                "name": null,
+                "timeSlice|AirTrafficManagementServiceTimeSlice|featureLifetime|TimePeriod|beginPosition": null
+            }
+        }
+    ]
+}

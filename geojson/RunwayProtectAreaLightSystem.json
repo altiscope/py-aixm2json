@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.120a073f-486a-44af-afaa-2d50885eb5c3",
+                "identifier": "120a073f-486a-44af-afaa-2d50885eb5c3",
+                "beginPosition": "2018-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|RunwayProtectAreaLightSystemTimeSlice|featureLifetime|TimePeriod|beginPosition": "2018-06-21T00:00:00",
+                "emergencyLighting": "YES",
+                "intensityLevel": "LIL",
+                "colour": "WHITE",
+                "position": "CL"
+            }
+        }
+    ]
+}

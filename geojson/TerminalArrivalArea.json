@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.877651f7-2d43-443f-bf5a-cc0e76e196dd",
+                "identifier": "877651f7-2d43-443f-bf5a-cc0e76e196dd",
+                "beginPosition": "2016-08-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|TerminalArrivalAreaTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-08-18T00:00:00",
+                "arrivalAreaType": "STRAIGHT_IN",
+                "arcDirection": "CWA",
+                "fromAngle": 236.278031922472,
+                "toAngle": 16.2891958082113,
+                "angleType": "OTHER",
+                "innerDistance": 0.0,
+                "innerDistance_uom": "NM",
+                "outerDistance": 25.0,
+                "outerDistance_uom": "NM"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9348cfc9-a765-4e6a-936a-6fcb95dfeb16",
+                "identifier": "9348cfc9-a765-4e6a-936a-6fcb95dfeb16",
+                "beginPosition": "2016-08-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|TerminalArrivalAreaTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-08-18T00:00:00",
+                "arrivalAreaType": "LEFT_BASE",
+                "arcDirection": "CWA",
+                "fromAngle": 16.2891958082113,
+                "toAngle": 126.352849694884,
+                "angleType": "OTHER",
+                "innerDistance": 0.0,
+                "innerDistance_uom": "NM",
+                "outerDistance": 25.0,
+                "outerDistance_uom": "NM"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c97db969-fbf8-4f56-afa3-e380f451c283",
+                "identifier": "c97db969-fbf8-4f56-afa3-e380f451c283",
+                "beginPosition": "2016-08-18T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|TerminalArrivalAreaTimeSlice|featureLifetime|TimePeriod|beginPosition": "2016-08-18T00:00:00",
+                "arrivalAreaType": "RIGHT_BASE",
+                "arcDirection": "CWA",
+                "fromAngle": 126.352849694884,
+                "toAngle": 236.278031922472,
+                "angleType": "OTHER",
+                "innerDistance": 0.0,
+                "innerDistance_uom": "NM",
+                "outerDistance": 25.0,
+                "outerDistance_uom": "NM"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        }
+    ]
+}

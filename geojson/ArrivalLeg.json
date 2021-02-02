@@ -1,0 +1,668 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.003ff777-b5d0-424b-b647-ad7586856317",
+                "identifier": "003ff777-b5d0-424b-b647-ad7586856317",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 216.563806949891,
+                "courseType": "TRUE_BRG",
+                "length": 19.8000008122451,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 160.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": -2.37775753135452,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.16bd891a-5119-49ab-b8e9-86a7b9ac268f",
+                "identifier": "16bd891a-5119-49ab-b8e9-86a7b9ac268f",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 124.789983366641,
+                "courseType": "TRUE_BRG",
+                "length": 16.2678262068116,
+                "length_uom": "NM",
+                "lowerLimitAltitude": null,
+                "lowerLimitAltitude_uom": null,
+                "lowerLimitReference": null,
+                "altitudeInterpretation": "BELOW_UPPER",
+                "verticalAngle": -0.579368441178439,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": "LEFT",
+                "upperLimitAltitude": 90.0,
+                "upperLimitAltitude_uom": "FL",
+                "upperLimitReference": "STD"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2a196bfb-f345-4a2c-9fb5-5f6ea352cb70",
+                "identifier": "2a196bfb-f345-4a2c-9fb5-5f6ea352cb70",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 127.086465729027,
+                "courseType": "TRUE_BRG",
+                "length": 5.01390135399032,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 175.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "RECOMMENDED",
+                "verticalAngle": -4.68706453819402,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.37ed9496-660d-46ac-a1f5-0135550ceea0",
+                "identifier": "37ed9496-660d-46ac-a1f5-0135550ceea0",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 172.24480819936,
+                "courseType": "TRUE_BRG",
+                "length": 9.07727584545087,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 100.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "RECOMMENDED",
+                "verticalAngle": 0.0,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.38e22d7f-dd9b-4ce9-ba00-afec86da043f",
+                "identifier": "38e22d7f-dd9b-4ce9-ba00-afec86da043f",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 126.914428187952,
+                "courseType": "TRUE_BRG",
+                "length": 30.7373559524204,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 160.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": -0.459794704827589,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8a60e193-6592-4094-af66-6292dea84994",
+                "identifier": "8a60e193-6592-4094-af66-6292dea84994",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 172.253008189746,
+                "courseType": "TRUE_BRG",
+                "length": 15.130407771516,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 100.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "BETWEEN",
+                "verticalAngle": -3.73174832428604,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": 110.0,
+                "upperLimitAltitude_uom": "FT",
+                "upperLimitReference": "MSL"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.8b5dab7c-6048-4223-9e6a-54c287fa7373",
+                "identifier": "8b5dab7c-6048-4223-9e6a-54c287fa7373",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 127.114245121906,
+                "courseType": "TRUE_BRG",
+                "length": 17.3000004747413,
+                "length_uom": "NM",
+                "lowerLimitAltitude": null,
+                "lowerLimitAltitude_uom": null,
+                "lowerLimitReference": null,
+                "altitudeInterpretation": "BELOW_UPPER",
+                "verticalAngle": -1.03447879240609,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": "RIGHT",
+                "upperLimitAltitude": 200.0,
+                "upperLimitAltitude_uom": "FL",
+                "upperLimitReference": "STD"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9787e83e-f36e-4cfc-9137-2309c294a212",
+                "identifier": "9787e83e-f36e-4cfc-9137-2309c294a212",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 127.114245121906,
+                "courseType": "TRUE_BRG",
+                "length": 17.3000004747413,
+                "length_uom": "NM",
+                "lowerLimitAltitude": null,
+                "lowerLimitAltitude_uom": null,
+                "lowerLimitReference": null,
+                "altitudeInterpretation": "BELOW_UPPER",
+                "verticalAngle": -0.76229450147568,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": "RIGHT",
+                "upperLimitAltitude": 200.0,
+                "upperLimitAltitude_uom": "FL",
+                "upperLimitReference": "STD"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b23c2ab1-26f0-4a04-aee0-dd28225ae8bb",
+                "identifier": "b23c2ab1-26f0-4a04-aee0-dd28225ae8bb",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 147.4386350943,
+                "courseType": "TRUE_BRG",
+                "length": 9.72245857545916,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 8000.0,
+                "lowerLimitAltitude_uom": "FT",
+                "lowerLimitReference": "MSL",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": -0.969398620445728,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": "RIGHT",
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d1cb410b-f00a-4931-833e-cb2b613d23a8",
+                "identifier": "d1cb410b-f00a-4931-833e-cb2b613d23a8",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 127.086465729027,
+                "courseType": "TRUE_BRG",
+                "length": 5.01390135399032,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 175.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "RECOMMENDED",
+                "verticalAngle": -4.68706453819402,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d22774d1-c7ce-45f1-881e-f786aff61df2",
+                "identifier": "d22774d1-c7ce-45f1-881e-f786aff61df2",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 147.39545940139,
+                "courseType": "TRUE_BRG",
+                "length": 10.9420180183363,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 7000.0,
+                "lowerLimitAltitude_uom": "FT",
+                "lowerLimitReference": "MSL",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": -0.861411318048208,
+                "flyOver": "NO",
+                "role": "IAF",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d4acd130-b57d-40e2-b4b1-068a304ed656",
+                "identifier": "d4acd130-b57d-40e2-b4b1-068a304ed656",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 216.481130686866,
+                "courseType": "TRUE_BRG",
+                "length": 24.1610449361721,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 210.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": -1.16943029520171,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ee496084-6c2f-41f9-aa39-36fabf02bf7c",
+                "identifier": "ee496084-6c2f-41f9-aa39-36fabf02bf7c",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 126.914428187952,
+                "courseType": "TRUE_BRG",
+                "length": 30.7373559524204,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 160.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "ABOVE_LOWER",
+                "verticalAngle": -0.459794704827589,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f191db58-9ee9-49a6-a61b-ebb00433d08b",
+                "identifier": "f191db58-9ee9-49a6-a61b-ebb00433d08b",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 160.748764493344,
+                "courseType": "TRUE_BRG",
+                "length": 41.8498257758628,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 214.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "RECOMMENDED",
+                "verticalAngle": -0.585180102368724,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f88523a8-1f8c-4e3c-a5ac-a15aa1a26f02",
+                "identifier": "f88523a8-1f8c-4e3c-a5ac-a15aa1a26f02",
+                "beginPosition": "2017-06-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "CharacterString": "C:\\IDS\\FPDAMWorkingFolder\\ONL_SBRJ_APR_17\\SSAPLUS$STAR_RNAV_SP01A\\AIXM\\STAR_RNAV_SP01A.XML",
+                "Date": "2017-02-14",
+                "timeSlice|ArrivalLegTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-21T00:00:00",
+                "legTypeARINC": "TF",
+                "course": 81.9379296785244,
+                "courseType": "TRUE_BRG",
+                "length": 31.4878812037106,
+                "length_uom": "NM",
+                "lowerLimitAltitude": 219.0,
+                "lowerLimitAltitude_uom": "FL",
+                "lowerLimitReference": "STD",
+                "altitudeInterpretation": "RECOMMENDED",
+                "verticalAngle": -0.62817148918401,
+                "flyOver": "NO",
+                "role": "OTHER",
+                "type": [
+                    "SECONDARY",
+                    "PRIMARY",
+                    "SECONDARY"
+                ],
+                "sectionNumber": [
+                    1,
+                    2,
+                    3
+                ],
+                "turnDirection": null,
+                "upperLimitAltitude": null,
+                "upperLimitAltitude_uom": null,
+                "upperLimitReference": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            }
+        },
+        {
+            "properties": null
+        },
+        {
+            "properties": null
+        },
+        {
+            "properties": null
+        },
+        {
+            "properties": null
+        },
+        {
+            "properties": null
+        },
+        {
+            "properties": null
+        }
+    ]
+}

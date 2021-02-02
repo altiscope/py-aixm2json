@@ -1,0 +1,642 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "gml_id": "uuid.0075c149-d1cd-447b-a1b4-8607379a9b2c",
+                "identifier": "0075c149-d1cd-447b-a1b4-8607379a9b2c",
+                "beginPosition": "2019-02-28T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.02ac3e57-81ff-45ac-aed9-00f293a8d2b6",
+                "identifier": "02ac3e57-81ff-45ac-aed9-00f293a8d2b6",
+                "beginPosition": "2014-11-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-11-13T00:00:00",
+                "pos": "0.0 0.0",
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.077261cc-e3ae-470a-82fa-15c89f7c5a07",
+                "identifier": "077261cc-e3ae-470a-82fa-15c89f7c5a07",
+                "beginPosition": "2019-02-28T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.09d6101f-382c-4dfb-b5d3-6c8a01af1fa9",
+                "identifier": "09d6101f-382c-4dfb-b5d3-6c8a01af1fa9",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.0e4ccef6-8449-4bfd-a96a-5b0f2d02bbad",
+                "identifier": "0e4ccef6-8449-4bfd-a96a-5b0f2d02bbad",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1b3a09b8-90eb-4ee0-8e2d-47a9752cd935",
+                "identifier": "1b3a09b8-90eb-4ee0-8e2d-47a9752cd935",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1c56e021-aebd-42fb-a249-2849cd37f710",
+                "identifier": "1c56e021-aebd-42fb-a249-2849cd37f710",
+                "beginPosition": "2014-08-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1d34815c-3b07-4539-a3e5-e27583554da0",
+                "identifier": "1d34815c-3b07-4539-a3e5-e27583554da0",
+                "beginPosition": "2019-01-31T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": "2019-01-31T00:00:00",
+                "pos": "-5.766111111 -35.379166667",
+                "category": "OTHER"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.1e8d8a40-d03e-4709-8a31-6b9518448272",
+                "identifier": "1e8d8a40-d03e-4709-8a31-6b9518448272",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.2527ef0c-bdf8-4c3c-888a-28f987290abf",
+                "identifier": "2527ef0c-bdf8-4c3c-888a-28f987290abf",
+                "beginPosition": "2012-05-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": "2012-05-03T00:00:00",
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3ac1e028-5d88-4d0a-b383-cc9d470295f4",
+                "identifier": "3ac1e028-5d88-4d0a-b383-cc9d470295f4",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.3b73de58-1c84-4707-b911-784b643e1cbc",
+                "identifier": "3b73de58-1c84-4707-b911-784b643e1cbc",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.4ca3dbee-528b-4461-9378-92e79a820cd3",
+                "identifier": "4ca3dbee-528b-4461-9378-92e79a820cd3",
+                "beginPosition": "2017-01-05T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.516a1db5-72ac-487e-9433-ff3ca224888d",
+                "identifier": "516a1db5-72ac-487e-9433-ff3ca224888d",
+                "beginPosition": "2017-05-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.60c63303-e68c-4cd9-83ee-8cb82eac155d",
+                "identifier": "60c63303-e68c-4cd9-83ee-8cb82eac155d",
+                "beginPosition": "2014-08-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.6879f971-7727-4e5a-ba5e-f3fbde5cb6f5",
+                "identifier": "6879f971-7727-4e5a-ba5e-f3fbde5cb6f5",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.68c406f0-1a54-4db2-863b-1809d58e440d",
+                "identifier": "68c406f0-1a54-4db2-863b-1809d58e440d",
+                "beginPosition": "2020-01-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.68c88e4d-d24f-448d-a0ba-6e8aa7288914",
+                "identifier": "68c88e4d-d24f-448d-a0ba-6e8aa7288914",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.6b725994-802d-4cec-8a24-f67c9ae5ceb6",
+                "identifier": "6b725994-802d-4cec-8a24-f67c9ae5ceb6",
+                "beginPosition": "2018-12-06T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.71b816c0-7a17-49ae-87f0-637453c002c0",
+                "identifier": "71b816c0-7a17-49ae-87f0-637453c002c0",
+                "beginPosition": "2014-11-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7425e789-3dc2-45fd-8975-867c885b442f",
+                "identifier": "7425e789-3dc2-45fd-8975-867c885b442f",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.7d24d4df-e666-4723-a1ac-727a099e4838",
+                "identifier": "7d24d4df-e666-4723-a1ac-727a099e4838",
+                "beginPosition": "2019-01-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.86ab0fb6-3b4e-48a0-b698-00b10e4ce780",
+                "identifier": "86ab0fb6-3b4e-48a0-b698-00b10e4ce780",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.87b21c99-1723-42ab-b07e-7f7215613d8b",
+                "identifier": "87b21c99-1723-42ab-b07e-7f7215613d8b",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.87f5007d-bae7-46b9-8a60-38b3b4a850b5",
+                "identifier": "87f5007d-bae7-46b9-8a60-38b3b4a850b5",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.890c8579-8ba2-46f9-80d5-8cfe300e9177",
+                "identifier": "890c8579-8ba2-46f9-80d5-8cfe300e9177",
+                "beginPosition": "2014-07-24T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9aac7aa6-f20b-4fde-abe9-7914c473ed78",
+                "identifier": "9aac7aa6-f20b-4fde-abe9-7914c473ed78",
+                "beginPosition": "2017-06-22T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9ab82518-3e2b-4c8d-baf9-5482d6b05994",
+                "identifier": "9ab82518-3e2b-4c8d-baf9-5482d6b05994",
+                "beginPosition": "2016-05-26T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9acc5b29-0851-4ac0-8582-c479ff60ea43",
+                "identifier": "9acc5b29-0851-4ac0-8582-c479ff60ea43",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9e132c5a-4f45-47b9-8826-f8698944f881",
+                "identifier": "9e132c5a-4f45-47b9-8826-f8698944f881",
+                "beginPosition": "2018-07-19T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9f1461c5-f862-4bab-85c7-f2cb1adf82f9",
+                "identifier": "9f1461c5-f862-4bab-85c7-f2cb1adf82f9",
+                "beginPosition": "2017-09-14T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.9f6b1ab0-c35c-433a-99f6-699e136d2d3c",
+                "identifier": "9f6b1ab0-c35c-433a-99f6-699e136d2d3c",
+                "beginPosition": "2014-07-24T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.ae3df276-b461-4fb2-a8c7-30931fed17cf",
+                "identifier": "ae3df276-b461-4fb2-a8c7-30931fed17cf",
+                "beginPosition": "2014-08-21T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.b670b717-3037-43ee-a618-353408df77b0",
+                "identifier": "b670b717-3037-43ee-a618-353408df77b0",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.bb7a5165-e770-4097-8504-12dca75d92f6",
+                "identifier": "bb7a5165-e770-4097-8504-12dca75d92f6",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c07d8b46-727a-4a8f-884c-5519c30daf39",
+                "identifier": "c07d8b46-727a-4a8f-884c-5519c30daf39",
+                "beginPosition": "2017-05-25T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.c7574a57-3082-480c-9156-982756d8077e",
+                "identifier": "c7574a57-3082-480c-9156-982756d8077e",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.cd88b6b0-526a-4c68-bef2-adf889065ecd",
+                "identifier": "cd88b6b0-526a-4c68-bef2-adf889065ecd",
+                "beginPosition": "2018-09-13T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.cdc230f9-e769-4ef7-b5af-ef75882fa811",
+                "identifier": "cdc230f9-e769-4ef7-b5af-ef75882fa811",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.cf85f14a-5b3a-485f-9382-fa667c27f33b",
+                "identifier": "cf85f14a-5b3a-485f-9382-fa667c27f33b",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d46c8722-abbe-4efe-a172-c403a28c4b7d",
+                "identifier": "d46c8722-abbe-4efe-a172-c403a28c4b7d",
+                "beginPosition": "2018-07-19T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.d7908494-f261-46dc-96a9-a1cb13d611be",
+                "identifier": "d7908494-f261-46dc-96a9-a1cb13d611be",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": "2012-03-08T00:00:00",
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.dafdd7d4-f99e-4a3c-861c-6092174b2a74",
+                "identifier": "dafdd7d4-f99e-4a3c-861c-6092174b2a74",
+                "beginPosition": "2019-01-31T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.db909e95-104e-4390-b150-82e81056cbe1",
+                "identifier": "db909e95-104e-4390-b150-82e81056cbe1",
+                "beginPosition": "2017-06-22T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.e379d025-b256-4017-b4d1-877cc6dd779d",
+                "identifier": "e379d025-b256-4017-b4d1-877cc6dd779d",
+                "beginPosition": "2011-01-01T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.eab47dd7-da9a-4732-9721-163eccb7abea",
+                "identifier": "eab47dd7-da9a-4732-9721-163eccb7abea",
+                "beginPosition": "2017-03-02T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.eb7d3b77-1913-4803-8c2d-0b8037d65919",
+                "identifier": "eb7d3b77-1913-4803-8c2d-0b8037d65919",
+                "beginPosition": "2014-04-03T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": "2014-04-03T00:00:00",
+                "pos": null,
+                "category": null
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.f2404c22-7b80-4c4a-9177-4b1c5deedf6a",
+                "identifier": "f2404c22-7b80-4c4a-9177-4b1c5deedf6a",
+                "beginPosition": "2017-06-22T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": "2017-06-22T00:00:00",
+                "pos": null,
+                "category": "OTHER"
+            }
+        },
+        {
+            "properties": {
+                "gml_id": "uuid.fab4892c-3075-4155-a2ea-0077d13bfd5a",
+                "identifier": "fab4892c-3075-4155-a2ea-0077d13bfd5a",
+                "beginPosition": "2012-03-08T00:00:00",
+                "interpretation": "BASELINE",
+                "sequenceNumber": 1,
+                "correctionNumber": 0,
+                "timeSlice|CheckpointINSTimeSlice|featureLifetime|TimePeriod|beginPosition": null,
+                "pos": null,
+                "category": null
+            }
+        }
+    ]
+}
