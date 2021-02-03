@@ -45,7 +45,7 @@ from decimal import Decimal
 # ogr2ogr -f "GeoJSON" airspace.geojson airspace.xml -skipfailures
 
 
-tree = ET.parse('WEF2021-01-28_EXP2021-02-01_CRC_171CB976.xml')
+tree = ET.parse('aixm-testfiles/UK/WEF2021-01-28_EXP2021-02-01_CRC_171CB976.xml')
 root = tree.getroot()
 ET.register_namespace('gsr','http://www.isotc211.org/2005/gsr')
 ET.register_namespace('gml','http://www.opengis.net/gml/3.2')
@@ -85,8 +85,7 @@ for node in root.iter():
                     # get the data
                     center = ""
                     if arcs[j].find('{http://www.opengis.net/gml/3.2}pointProperty'):
-                        element = arcs[j].find('{http://www.opengis.net/gml/3.2}pointProperty')
-                        center = element.find('{http://www.opengis.net/gml/3.2}pos').text.split()
+                        center = arcs[j].find('.//{http://www.opengis.net/gml/3.2}pointProperty/{http://www.aixm.aero/schema/5.1}Point/{http://www.opengis.net/gml/3.2}pos').text.split()
                     else:
                         center = arcs[j].find('{http://www.opengis.net/gml/3.2}pos').text.split()
                     start_angle = float(arcs[j].find('{http://www.opengis.net/gml/3.2}startAngle').text)
@@ -129,11 +128,11 @@ for node in root.iter():
                         k += 1
 
                     geodesicstring.append(posList)
-                    # segments[i].append(geodesicstring)
-                    # segments[i].remove(arcdata[j])
 
                     # replace arc with geodesic string
-                    segments[i].replace(arcs[j],geodesicstring)
+                    segments[i].append(geodesicstring)
+                    segments[i].remove(arcs[j])
+                    # segments[i].replace(arcs[j],geodesicstring)
                     j += 1
 
         # fix posList so that each list connects to the one before it
@@ -151,6 +150,6 @@ for node in root.iter():
                 s = " "
                 posList[j].text = s.join(posJ)
 
-tree.write(open('WEF2021-01-28_EXP2021-02-01_CRC_171CB976_processed.xml', 'w'), encoding='unicode', xml_declaration=True, method="xml")
+tree.write(open('aixm-testfiles/UK/WEF2021-01-28_EXP2021-02-01_CRC_171CB976_processed.xml', 'w'), encoding='unicode', xml_declaration=True, method="xml")
 
 # ogr2ogr -f "GeoJSON" airport-heliport.geojson airport_heliport.xml -skipfailures -nlt POINT -geomfield ARP9
