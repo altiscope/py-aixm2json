@@ -16,7 +16,6 @@ open_options = ['XSD=schemas/aixm_5_1_1_xsd/message/AIXM_BasicMessage.xsd',
                 'INVERT_AXIS_ORDER_IF_LAT_LONG=YES',
                 'SWAP_COORDINATES=AUTO']
 
-
 def load_aixm():
     print('Loading file')
     gdal.SetConfigOption('GML_SKIP_CORRUPTED_FEATURES', 'YES')
@@ -44,6 +43,8 @@ def load_aixm():
             for field in field_list:
                 # print('Reading field', field)
                 value = feature.GetField(field)
+                if layer_name == "Airspace" and field == 'identifier':
+                    print(value)
                 if feature_list[feature_count]['properties'] is None:
                     feature_list[feature_count]['properties'] = {field: value}
                 else:
@@ -55,6 +56,9 @@ def load_aixm():
                     feature_list[feature_count]['geometry'] = json.loads(g1l.ExportToJson())
                 else:
                     feature_list[feature_count]['geometry'] = json.loads(feature.GetGeometryRef().ExportToJson())
+            else:
+                if layer_name == "Airspace":
+                    print("can't get geometry")
             feature_count += 1
 
         geojson = {'type': 'FeatureCollection', 'features': feature_list}
@@ -87,12 +91,14 @@ def fix_airport_heliport_geojson():
         # the AirportHeliport feature position property is not read as a geometry by ogr
         # so we need to create a geometric point based on the position data
         # get lat/lon out of the 'pos' data
-        coords = feature['properties']['pos'].split(" ")
-        lat = coords[1]
-        lon = coords[0]
+        print(feature)
+        if feature['properties']['pos']:
+            coords = feature['properties']['pos'].split(" ")
+            lat = coords[1]
+            lon = coords[0]
         # create point geometry (lon comes before lat in the pos element, so we need to reverse for a point)
-        my_point = Point((float(lat), float(lon)))
-        feature['geometry'] = my_point
+            my_point = Point((float(lat), float(lon)))
+            feature['geometry'] = my_point
 
     
         
@@ -128,4 +134,4 @@ if __name__ == '__main__':
     get_arguments(sys.argv[1:])
     load_aixm()
     fix_airspace_geojson()
-    fix_airport_heliport_geojson()
+    # fix_airport_heliport_geojson()
