@@ -42,8 +42,9 @@ for node in root.iter():
         for airspace_geometry_component in airspace_geometry_components:
             contributing_airspaces = airspace_geometry_component.findall('.//{http://www.aixm.aero/schema/5.1}contributorAirspace')
             if contributing_airspaces is not None:
+                i = 0
                 for contributing_airspace in contributing_airspaces:
-                    print(contributing_airspace)
+                    # print(contributing_airspace)
                     the_airspace = contributing_airspace.find('.//{http://www.aixm.aero/schema/5.1}theAirspace')
                     the_airspace_href = the_airspace.get("{http://www.w3.org/1999/xlink}href")
                     the_contributing_airspace_id = the_airspace_href.replace("urn:uuid:","uuid.")
@@ -53,9 +54,10 @@ for node in root.iter():
                         try:
                             if airspace_id == the_contributing_airspace_id:
                                 node.remove(airspace_geometry_component)
-                                node.append(airspace.find('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent'))
+                                node.insert(i,airspace.find('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent'))
                         except:
                             "no bueno"
+                    i += 1
 
     # clean up ring geometries
     if node.tag == "{http://www.opengis.net/gml/3.2}Ring":
