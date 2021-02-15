@@ -43,8 +43,6 @@ def load_aixm():
             for field in field_list:
                 # print('Reading field', field)
                 value = feature.GetField(field)
-                if layer_name == "Airspace" and field == 'identifier':
-                    print(value)
                 if feature_list[feature_count]['properties'] is None:
                     feature_list[feature_count]['properties'] = {field: value}
                 else:
@@ -91,7 +89,6 @@ def fix_airport_heliport_geojson():
         # the AirportHeliport feature position property is not read as a geometry by ogr
         # so we need to create a geometric point based on the position data
         # get lat/lon out of the 'pos' data
-        print(feature)
         if feature['properties']['pos']:
             coords = feature['properties']['pos'].split(" ")
             lat = coords[1]
@@ -100,8 +97,6 @@ def fix_airport_heliport_geojson():
             my_point = Point((float(lat), float(lon)))
             feature['geometry'] = my_point
 
-    
-        
     with open(output_path + '/AirportHeliport.json', 'w') as file:
         json.dump(data, file, indent=2)
 
@@ -134,4 +129,5 @@ if __name__ == '__main__':
     get_arguments(sys.argv[1:])
     load_aixm()
     fix_airspace_geojson()
-    # fix_airport_heliport_geojson()
+    # for Brazil AIXM we need to fix AirportHeliport geojson
+    fix_airport_heliport_geojson()

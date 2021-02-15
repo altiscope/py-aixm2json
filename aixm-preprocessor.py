@@ -1,16 +1,23 @@
+
+# from xml.etree.ElementTree import Element, SubElement, Comment, tostring
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, Comment, tostring
+import lxml.etree as LET
 from geospatial import Geo
 from decimal import Decimal
 
-input_file = 'aixm-testfiles/UK/WEF2021-01-28_EXP2021-02-01_CRC_171CB976.xml'
-output_file = 'aixm-testfiles/UK/WEF2021-01-28_EXP2021-02-01_CRC_171CB976_processed.xml'
+input_file = 'aixm-testfiles/BR/05nov20v2.xml'
+output_file = 'aixm-testfiles/BR/05nov20v2_processed.xml'
+# input_file = 'aixm-testfiles/UK/WEF2021-01-28_EXP2021-02-01_CRC_171CB976.xml'
+# output_file = 'aixm-testfiles/UK/WEF2021-01-28_EXP2021-02-01_CRC_171CB976_processed.xml'
 # input_file = 'aixm-testfiles/UK/aixm-test.xml'
 # output_file = 'aixm-testfiles/UK/aixm-test_processed.xml'
 
 
 tree = ET.parse(input_file)
+ltree = LET.parse(input_file)
 root = tree.getroot()
+lroot = ltree.getroot()
 ET.register_namespace('gsr','http://www.isotc211.org/2005/gsr')
 ET.register_namespace('gml','http://www.opengis.net/gml/3.2')
 ET.register_namespace('gss','http://www.isotc211.org/2005/gss')
@@ -29,15 +36,39 @@ ET.register_namespace('null', 'http://www.w3.org/2001/XMLSchema')
 
 
 for node in root.iter():
+
+    # resolve airspace elements with link:href
+    airspaces = root.findall(".//{http://www.aixm.aero/schema/5.1}Airspace")
+    airspace_geometries = node.findall('.//{http://www.aixm.aero/schema/5.1}geometryComponent')
+    if airspace_geometries is not None:
+        for airspace_geometry in airspace_geometries:
+            airspace_geometry_components = airspace_geometry.findall('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent')
+            for airspace_geometry_component in airspace_geometry_components:
+                contributing_airspaces = airspace_geometry.findall('.//{http://www.aixm.aero/schema/5.1}contributorAirspace')
+                if contributing_airspaces is not None:
+                    for contributing_airspace in contributing_airspaces:
+                        the_airspace = contributing_airspace.find('.//{http://www.aixm.aero/schema/5.1}theAirspace')
+                        the_airspace_href = the_airspace.get("{http://www.w3.org/1999/xlink}href")
+                        the_contributing_airspace_id = the_airspace_href.replace("urn:uuid:","uuid.")
+                        print("Parent airspace geometry: " + str(airspace_geometry))
+                
+                        for airspace in airspaces:
+                            airspace_id = airspace.get('{http://www.opengis.net/gml/3.2}id')
+                            try:
+                                if airspace_id == the_contributing_airspace_id:
+                                    print("Airspace: " + str(airspace))
+                                    print("Airspace id: " + airspace_id)
+                                    print("Contributing airspace id: " + the_contributing_airspace_id)
+                                    print(airspace.find('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent'))
+                                    airspace_geometry.remove(airspace_geometry_component)
+                                    airspace_geometry.append(airspace.find('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent'))
+                            except:
+                                "no bueno"
+
     # clean up ring geometries
     if node.tag == "{http://www.opengis.net/gml/3.2}Ring":
 
-        # resolve elements with link:href
-        for child in node:
-            if child.get('{http://www.w3.org/1999/xlink}href'):
-                # need to figure out how to resolve these
-                node.remove(child)
-        # combine multiple curvemembers into a single one
+        # combine multiple curvemembers into a single one with one set of segments
         curveMembers = node.findall('.//{http://www.opengis.net/gml/3.2}curveMember')
         if len(curveMembers) > 1:
             finalCurveMember = Element("{http://www.opengis.net/gml/3.2}curveMember")
@@ -116,7 +147,7 @@ for node in root.iter():
                     segments[i].insert(j, geodesicstring)
                 j += 1
 
-            # make sure the segments connect and that the polygon is closed
+            # make sure the segment pieces connect to each other and that the polygon is closed
             segment_pieces = list(segments[i])
             k=0
             first_position = ""
