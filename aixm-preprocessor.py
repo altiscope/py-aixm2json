@@ -2,9 +2,9 @@
 # from xml.etree.ElementTree import Element, SubElement, Comment, tostring
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, Comment, tostring
-import lxml.etree as LET
 from geospatial import Geo
 from decimal import Decimal
+from bs4 import BeautifulSoup
 
 input_file = 'aixm-testfiles/BR/05nov20v2.xml'
 output_file = 'aixm-testfiles/BR/05nov20v2_processed.xml'
@@ -15,9 +15,7 @@ output_file = 'aixm-testfiles/BR/05nov20v2_processed.xml'
 
 
 tree = ET.parse(input_file)
-ltree = LET.parse(input_file)
 root = tree.getroot()
-lroot = ltree.getroot()
 ET.register_namespace('gsr','http://www.isotc211.org/2005/gsr')
 ET.register_namespace('gml','http://www.opengis.net/gml/3.2')
 ET.register_namespace('gss','http://www.isotc211.org/2005/gss')
@@ -38,32 +36,26 @@ ET.register_namespace('null', 'http://www.w3.org/2001/XMLSchema')
 for node in root.iter():
 
     # resolve airspace elements with link:href
-    airspaces = root.findall(".//{http://www.aixm.aero/schema/5.1}Airspace")
-    airspace_geometries = node.findall('.//{http://www.aixm.aero/schema/5.1}geometryComponent')
-    if airspace_geometries is not None:
-        for airspace_geometry in airspace_geometries:
-            airspace_geometry_components = airspace_geometry.findall('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent')
-            for airspace_geometry_component in airspace_geometry_components:
-                contributing_airspaces = airspace_geometry.findall('.//{http://www.aixm.aero/schema/5.1}contributorAirspace')
-                if contributing_airspaces is not None:
-                    for contributing_airspace in contributing_airspaces:
-                        the_airspace = contributing_airspace.find('.//{http://www.aixm.aero/schema/5.1}theAirspace')
-                        the_airspace_href = the_airspace.get("{http://www.w3.org/1999/xlink}href")
-                        the_contributing_airspace_id = the_airspace_href.replace("urn:uuid:","uuid.")
-                        print("Parent airspace geometry: " + str(airspace_geometry))
-                
-                        for airspace in airspaces:
-                            airspace_id = airspace.get('{http://www.opengis.net/gml/3.2}id')
-                            try:
-                                if airspace_id == the_contributing_airspace_id:
-                                    print("Airspace: " + str(airspace))
-                                    print("Airspace id: " + airspace_id)
-                                    print("Contributing airspace id: " + the_contributing_airspace_id)
-                                    print(airspace.find('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent'))
-                                    airspace_geometry.remove(airspace_geometry_component)
-                                    airspace_geometry.append(airspace.find('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent'))
-                            except:
-                                "no bueno"
+    if node.tag == "{http://www.aixm.aero/schema/5.1}geometryComponent":
+        airspaces = root.findall(".//{http://www.aixm.aero/schema/5.1}Airspace")
+        airspace_geometry_components = node.findall('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent')
+        for airspace_geometry_component in airspace_geometry_components:
+            contributing_airspaces = airspace_geometry_component.findall('.//{http://www.aixm.aero/schema/5.1}contributorAirspace')
+            if contributing_airspaces is not None:
+                for contributing_airspace in contributing_airspaces:
+                    print(contributing_airspace)
+                    the_airspace = contributing_airspace.find('.//{http://www.aixm.aero/schema/5.1}theAirspace')
+                    the_airspace_href = the_airspace.get("{http://www.w3.org/1999/xlink}href")
+                    the_contributing_airspace_id = the_airspace_href.replace("urn:uuid:","uuid.")
+                    # look for contributing airspace and replace reference with actual geometry
+                    for airspace in airspaces:
+                        airspace_id = airspace.get('{http://www.opengis.net/gml/3.2}id')
+                        try:
+                            if airspace_id == the_contributing_airspace_id:
+                                node.remove(airspace_geometry_component)
+                                node.append(airspace.find('.//{http://www.aixm.aero/schema/5.1}AirspaceGeometryComponent'))
+                        except:
+                            "no bueno"
 
     # clean up ring geometries
     if node.tag == "{http://www.opengis.net/gml/3.2}Ring":
@@ -152,8 +144,8 @@ for node in root.iter():
             k=0
             first_position = ""
             prior_segment_end_position = ""
-
             while k < len(segment_pieces):
+
                 if segment_pieces[k].find('{http://www.opengis.net/gml/3.2}pointProperty') is not None:
                     positions = segment_pieces[k].findall('.//{http://www.opengis.net/gml/3.2}pointProperty/{http://www.aixm.aero/schema/5.1}Point/{http://www.opengis.net/gml/3.2}pos')
 
@@ -195,4 +187,3 @@ for node in root.iter():
 
 tree.write(open(output_file, 'w'), encoding='unicode', xml_declaration=True, method="xml")
 
-# ogr2ogr -f "GeoJSON" airport-heliport.geojson airport_heliport.xml -skipfailures -nlt POINT -geomfield ARP9
